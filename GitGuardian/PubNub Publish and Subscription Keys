@@ -1,0 +1,10 @@
+- text: |
+    PUB_KEY = 'pub-c-v6ardkkg-5i4c-2fv7-2vrz-o4xq43qmvxmg'
+    SUB_KEY = 'sub-c-kkwkzthy-s37k-d0og-m0xo-slorvcrn4lpp'
+
+  pub_key: pub-c-v6ardkkg-5i4c-2fv7-2vrz-o4xq43qmvxmg
+  sub_key: sub-c-kkwkzthy-s37k-d0og-m0xo-slorvcrn4lpp
+
+- text: "PNConfiguration *configuration = [PNConfiguration configurationWithPublishKey:@'pub-c-u9zv1dmd-l8k8-80vl-93b9-oyys8jh6zjjd' subscribeKey:@'sub-c-ipcrqny0-fjna-xuwq-hq9s-9fl8z9y0oss6'];"
+  pub_key: pub-c-u9zv1dmd-l8k8-80vl-93b9-oyys8jh6zjjd
+  sub_key: sub-c-ipcrqny0-fjna-xuwq-hq9s-9fl8z9y0oss6

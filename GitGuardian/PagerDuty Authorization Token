@@ -1,0 +1,5 @@
+- text: |
+    curl -H "Accept: application/vnd.pagerduty+json;version=2" \
+    -H "Authorization: Token token=Vc9i8_jGmjuczWF3GXq3" -X GET \
+    "https://api.pagerduty.com/incidents"
+  apikey: Vc9i8_jGmjuczWF3GXq3

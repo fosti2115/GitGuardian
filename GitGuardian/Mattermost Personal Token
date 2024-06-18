@@ -1,0 +1,23 @@
+- text: "def mmsend(message,hasData,fpath): #mattermost
+    SERVER_URL = 'http://oatcouture.tw:8065'
+    mmKey = '9kih4c69v7bcpbgf174usrlgie'"
+  host: http://oatcouture.tw:8065
+  token: 9kih4c69v7bcpbgf174usrlgie
+
+- text: 'service: mattermost
+    url: https://mattermost.my-company.com
+    personal_token: b957n67ahin90ba4f4dt14966v'
+  host: https://mattermost.my-company.com
+  token: b957n67ahin90ba4f4dt14966v
+
+- text: "def fetchUsersFromMattermost do
+    -   url = 'http://56.91.164.139:8065/api/v4/users'
+    -   headers = [{'Authorization', 'Bearer jh7cgmr3tod5igzkavtwrhr5ia'}"
+  host: http://56.91.164.139:8065
+  token: jh7cgmr3tod5igzkavtwrhr5ia
+
+- text: "mattermost_url = 'https://chat.coworkers.com/api/v4/users'
+    headers = [{'Authorization', 'Bearer ih7kjnr4otd5igzroptwrhu6op'},
+    {'Content-Type', 'application/json; charset=utf-8'}]"
+  host: https://chat.coworkers.com
+  token: ih7kjnr4otd5igzroptwrhu6op

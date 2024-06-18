@@ -1,0 +1,5 @@
+- text: 'curl -H "X-Api-Key: ico-p5iId0zgEREcXoEaX2bWpHNO4dEjnTsO" https://pricing.api.infracost.io/data-download/latest '
+  apikey: ico-p5iId0zgEREcXoEaX2bWpHNO4dEjnTsO
+
+- text: INFRACOST_API_KEY = "ico-p5iId0zgEREcXoEaX2bWpHNO4dEjnTsO"
+  apikey: ico-p5iId0zgEREcXoEaX2bWpHNO4dEjnTsO

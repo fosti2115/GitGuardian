@@ -1,0 +1,43 @@
+- text: |
+    client_email=secrets@gitguardian.iam.gserviceaccount.com
+    project_id=red-button-project
+    private_key_id=a8dba6e69ae6576c0673b175a2dd30a4d35425f8
+    private_key=-----BEGIN PRIVATE KEY-----MIIDAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876-----END PRIVATE KEY-----
+  client_id: secrets@gitguardian.iam.gserviceaccount.com
+  project_id: red-button-project
+  private_key_id: a8dba6e69ae6576c0673b175a2dd30a4d35425f8
+  private_key: -----BEGIN PRIVATE KEY-----MIIDAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876DAOIZJDOIaozijdoiajzdj876-----END PRIVATE KEY-----
+- text: |
+    {
+      "type": "service_account",
+      "project_id": "green-button-project",
+      "private_key_id": "f5fad24f9ed02e032fcd6b78623d1a8823123abc",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIICXQIBAAKBgQCpoq2EpZRNUAT47NmVbAn6L56PMjU2hFgL4P9RrnTnKwEi3rKq\nQJV/330dm6otDWwhGCqgv9jzOAsjJozTCr/mFaRYenzg9lUWPORziUeTOeUPK2fS\nJAZt35bJojVNA3dUhr+qSsvu74v2cD7hhb9rw96EpWaqiXXswF+j+fiCTwIDAQAB\nAoGANkCw/ht2ssNE09fsPr2u8zUHoQSNwEHTZvkurxD8knJOirhuq8S8C4mOmkmO\nw5nnWy4/c+nnmOHzrepGX7iwZoB4Ig+NlShho2WrUvcu6S/DmtHBcCWvuWxpj/OU\ngnn6x1QpF+AzL3tm29Uwidjci/+V4yxq9p/3Q+m089GruAECQQDSPJXpdXpVSVBK\n9TyPccYpWRAXisHv1m0b6kUTqFO6kjMm1gCRH3p/rnCrpiUORSfGEVwk3lFJvzSv\noFdpcl3hAkEAzo+YQw+NDc/UtSyqokOfWkJjp0F8YSK5rcAarJdBzdBmXu40wC7N\nwtdgS60SVi2aBfxqhp0GpfGwPJvDTIYGLwJAIvQPuJDfle5qewvq1a6E07sLAd7/\n/3AXE90PPwVtZkeIWZya24XwR+oosWEeKBE3W6bnOvn7addwWwK9hbqOAQJBALnt\n2SFr6wymqZFXHlSmx9Zn8emIcZvBtR7nz1rRX+MRlkQW6Jagyod6dGxJ4jp+G6kN\ntxlqWKSgc4Fqt5W3AfMCQQCibgU+7SGwXgWPDILCUp8ZcHbDsvmNGzIEt91bO/Jx\nA25IHS03kc5ARosuNympZkOhPEotsnbdNkRdDZsVhTWn\n-----END PRIVATE KEY-----\n",
+      "client_email": "secrets@gitguardian.iam.gserviceaccount.com",
+      "client_id": "111135331340794001234",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/green-button-project%40secrets@gitguardian.iam.gserviceaccount.com"
+    }
+  client_id: secrets@gitguardian.iam.gserviceaccount.com
+  project_id: green-button-project
+  private_key_id: f5fad24f9ed02e032fcd6b78623d1a8823123abc
+  private_key: -----BEGIN PRIVATE KEY-----\nMIICXQIBAAKBgQCpoq2EpZRNUAT47NmVbAn6L56PMjU2hFgL4P9RrnTnKwEi3rKq\nQJV/330dm6otDWwhGCqgv9jzOAsjJozTCr/mFaRYenzg9lUWPORziUeTOeUPK2fS\nJAZt35bJojVNA3dUhr+qSsvu74v2cD7hhb9rw96EpWaqiXXswF+j+fiCTwIDAQAB\nAoGANkCw/ht2ssNE09fsPr2u8zUHoQSNwEHTZvkurxD8knJOirhuq8S8C4mOmkmO\nw5nnWy4/c+nnmOHzrepGX7iwZoB4Ig+NlShho2WrUvcu6S/DmtHBcCWvuWxpj/OU\ngnn6x1QpF+AzL3tm29Uwidjci/+V4yxq9p/3Q+m089GruAECQQDSPJXpdXpVSVBK\n9TyPccYpWRAXisHv1m0b6kUTqFO6kjMm1gCRH3p/rnCrpiUORSfGEVwk3lFJvzSv\noFdpcl3hAkEAzo+YQw+NDc/UtSyqokOfWkJjp0F8YSK5rcAarJdBzdBmXu40wC7N\nwtdgS60SVi2aBfxqhp0GpfGwPJvDTIYGLwJAIvQPuJDfle5qewvq1a6E07sLAd7/\n/3AXE90PPwVtZkeIWZya24XwR+oosWEeKBE3W6bnOvn7addwWwK9hbqOAQJBALnt\n2SFr6wymqZFXHlSmx9Zn8emIcZvBtR7nz1rRX+MRlkQW6Jagyod6dGxJ4jp+G6kN\ntxlqWKSgc4Fqt5W3AfMCQQCibgU+7SGwXgWPDILCUp8ZcHbDsvmNGzIEt91bO/Jx\nA25IHS03kc5ARosuNympZkOhPEotsnbdNkRdDZsVhTWn\n-----END PRIVATE KEY-----
+- text: |
+    {
+      "type": "service_account",
+      "project_id": "green-button-project",
+      "private_key_id": "f5fad24f9ed02e032fcd6b78623d1a8823123abc",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIICXQIBAAKBgQCpoq2EpZRNUAT47NmVbAn6L56PMjU2hFgL4P9RrnTnKwEi3rKq\nQJV/330dm6otDWwhGCqgv9jzOAsjJozTCr/mFaRYenzg9lUWPORziUeTOeUPK2fS\nJAZt35bJojVNA3dUhr+qSsvu74v2cD7hhb9rw96EpWaqiXXswF+j+fiCTwIDAQAB\nAoGANkCw/ht2ssNE09fsPr2u8zUHoQSNwEHTZvkurxD8knJOirhuq8S8C4mOmkmO\nw5nnWy4/c+nnmOHzrepGX7iwZoB4Ig+NlShho2WrUvcu6S/DmtHBcCWvuWxpj/OU\ngnn6x1QpF+AzL3tm29Uwidjci/+V4yxq9p/3Q+m089GruAECQQDSPJXpdXpVSVBK\n9TyPccYpWRAXisHv1m0b6kUTqFO6kjMm1gCRH3p/rnCrpiUORSfGEVwk3lFJvzSv\noFdpcl3hAkEAzo+YQw+NDc/UtSyqokOfWkJjp0F8YSK5rcAarJdBzdBmXu40wC7N\nwtdgS60SVi2aBfxqhp0GpfGwPJvDTIYGLwJAIvQPuJDfle5qewvq1a6E07sLAd7/\n/3AXE90PPwVtZkeIWZya24XwR+oosWEeKBE3W6bnOvn7addwWwK9hbqOAQJBALnt\n2SFr6wymqZFXHlSmx9Zn8emIcZvBtR7nz1rRX+MRlkQW6Jagyod6dGxJ4jp+G6kN\ntxlqWKSgc4Fqt5W3AfMCQQCibgU+7SGwXgWPDILCUp8ZcHbDsvmNGzIEt91bO/Jx\nA25IHS03kc5ARosuNympZkOhPEotsnbdNkRdDZsVhTWn\n-----END PRIVATE KEY-----\n",
+      "client_email": "1233255797434580-compute@gitguardian.iam.gserviceaccount.com",
+      "client_id": "111135331340794001234",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/green-button-project%40secrets@gitguardian.iam.gserviceaccount.com"
+    }
+  client_id: 1233255797434580-compute@gitguardian.iam.gserviceaccount.com
+  project_id: green-button-project
+  private_key_id: f5fad24f9ed02e032fcd6b78623d1a8823123abc
+  private_key: -----BEGIN PRIVATE KEY-----\nMIICXQIBAAKBgQCpoq2EpZRNUAT47NmVbAn6L56PMjU2hFgL4P9RrnTnKwEi3rKq\nQJV/330dm6otDWwhGCqgv9jzOAsjJozTCr/mFaRYenzg9lUWPORziUeTOeUPK2fS\nJAZt35bJojVNA3dUhr+qSsvu74v2cD7hhb9rw96EpWaqiXXswF+j+fiCTwIDAQAB\nAoGANkCw/ht2ssNE09fsPr2u8zUHoQSNwEHTZvkurxD8knJOirhuq8S8C4mOmkmO\nw5nnWy4/c+nnmOHzrepGX7iwZoB4Ig+NlShho2WrUvcu6S/DmtHBcCWvuWxpj/OU\ngnn6x1QpF+AzL3tm29Uwidjci/+V4yxq9p/3Q+m089GruAECQQDSPJXpdXpVSVBK\n9TyPccYpWRAXisHv1m0b6kUTqFO6kjMm1gCRH3p/rnCrpiUORSfGEVwk3lFJvzSv\noFdpcl3hAkEAzo+YQw+NDc/UtSyqokOfWkJjp0F8YSK5rcAarJdBzdBmXu40wC7N\nwtdgS60SVi2aBfxqhp0GpfGwPJvDTIYGLwJAIvQPuJDfle5qewvq1a6E07sLAd7/\n/3AXE90PPwVtZkeIWZya24XwR+oosWEeKBE3W6bnOvn7addwWwK9hbqOAQJBALnt\n2SFr6wymqZFXHlSmx9Zn8emIcZvBtR7nz1rRX+MRlkQW6Jagyod6dGxJ4jp+G6kN\ntxlqWKSgc4Fqt5W3AfMCQQCibgU+7SGwXgWPDILCUp8ZcHbDsvmNGzIEt91bO/Jx\nA25IHS03kc5ARosuNympZkOhPEotsnbdNkRdDZsVhTWn\n-----END PRIVATE KEY-----

@@ -1,0 +1,12 @@
+- text: |
+    facebook String appId = "294790898041575"; String appSecret = "ce3f9f0362bbe5ab01dfc8ee565e4372"
+  client_id: '294790898041575'
+  client_secret: 'ce3f9f0362bbe5ab01dfc8ee565e4372'
+- text: |
+    String fb_id = "294790898041575"; String fb_secret = "ce3f9f0362bbe5ab01dfc8ee565e4372"
+  client_id: '294790898041575'
+  client_secret: 'ce3f9f0362bbe5ab01dfc8ee565e4372'
+- text: |
+    facebook String appId = "294790898041575"; String appSecret = "ce3f9f0362bbe5ab01dfc8ee565e4372"
+  client_id: '294790898041575'
+  client_secret: 'ce3f9f0362bbe5ab01dfc8ee565e4372'

@@ -1,0 +1,4 @@
+- text: |
+    export ARTIFACTORY_URL=http://localhost:8081/artifactory
+    export ARTIFACTORY_TOKEN=AKCp5bueTFpfypEqQbGJPp7eHFi28fBivfWczrjbPb9erDff9LbXZbj6UsRExVXA8asWGc8fM
+  apikey: AKCp5bueTFpfypEqQbGJPp7eHFi28fBivfWczrjbPb9erDff9LbXZbj6UsRExVXA8asWGc8fM

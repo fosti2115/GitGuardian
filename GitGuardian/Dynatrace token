@@ -1,0 +1,14 @@
+- text: |
+    dynatrace
+    api-token x8QhzChmbzDehNH01BMp2
+  apikey: x8QhzChmbzDehNH01BMp2
+- text: |
+    dynatrace
+    api-token: luMEDTz7Ib-QR2gJASeND
+  apikey: luMEDTz7Ib-QR2gJASeND
+- text: |
+    dynatrace_api_token = bq43DGxttIxUukgJ-N6eP
+  apikey: bq43DGxttIxUukgJ-N6eP
+
+- text: dynatrace token v2 = "dt0c01.ST2EY72KQINMH574WMNVI7YN.L3DFOBEDIMODIDAEX894M7JWBIVDEOYQARVWWFASS34NEH59ZX6BNDXFFM572RMA";
+  apikey: dt0c01.ST2EY72KQINMH574WMNVI7YN.L3DFOBEDIMODIDAEX894M7JWBIVDEOYQARVWWFASS34NEH59ZX6BNDXFFM572RMA

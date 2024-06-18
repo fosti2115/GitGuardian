@@ -1,0 +1,6 @@
+- text: |
+    $flutterwave = new PaymentMethod([
+    'vendor' => 'moneywave-flutterwave',
+    'privatekey' => 'ts_YA3DIBWNC5KW4HGJULQ5B6ZFSTX9AM',
+    'base_url' => 'https://moneywave.herokuapp.com/',
+  apikey: ts_YA3DIBWNC5KW4HGJULQ5B6ZFSTX9AM

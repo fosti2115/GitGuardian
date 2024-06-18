@@ -1,0 +1,10 @@
+- text: |
+    $app_id  = '917b0bdc';
+    $api_key = '38b90fc66a94e16edc7854e7f12540d7';
+    $Kairos  = new Kairos($app_id, $api_key);
+  client_id: 917b0bdc
+  client_secret: 38b90fc66a94e16edc7854e7f12540d7
+- text: $app_id  = '917bb4dc'; $api_key = '38b90fc66a94e16edc7854e7f12540d7'; $Kairos  = new Kairos($app_id, $api_key);
+
+  client_id: 917bb4dc
+  client_secret: 38b90fc66a94e16edc7854e7f12540d7

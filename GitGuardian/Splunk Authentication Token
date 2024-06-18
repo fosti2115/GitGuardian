@@ -1,0 +1,10 @@
+- text: "SPLUNK_TOKEN1 = '851A5E58-4EF1-7291-F947-C612A9654321'"
+  token: 851A5E58-4EF1-7291-F947-C612A9654321
+- text: 'splunk-token=176fcebf-4cf5-4edf-91bc-728408560464'
+  token: 176fcebf-4cf5-4edf-91bc-728408560464
+- text: |
+    some context with the word splunk somewhere
+    access_token: '08243c00-a31b-499d-9fae-763b41990326'"
+  token: 08243c00-a31b-499d-9fae-763b41990326
+- text: -Dsplunk_token=D6BD1AD4-CB62-4D80-A637-593EE2B17391\
+  token: D6BD1AD4-CB62-4D80-A637-593EE2B17391

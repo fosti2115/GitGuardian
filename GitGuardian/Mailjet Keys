@@ -1,0 +1,10 @@
+- text: |
+    mailjet
+    api_key = "e708ba56e1517a99f6b5fb07349476ef"
+    api_secret = '76efb766c113290b1663b8e561a40aec'
+  client_id: e708ba56e1517a99f6b5fb07349476ef
+  client_secret: 76efb766c113290b1663b8e561a40aec
+- text: mailjet api_key = "e708ba56e1517a99f6b5fb07349476ef" api_secret = '76efb766c113290b1663b8e561a40aec'
+
+  client_id: e708ba56e1517a99f6b5fb07349476ef
+  client_secret: 76efb766c113290b1663b8e561a40aec

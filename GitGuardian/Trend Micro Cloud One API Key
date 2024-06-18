@@ -1,0 +1,10 @@
+- text: |
+    import deepsecurity
+    configuration.api_key['api-secret-key'] = "C4B535C3-677F-783B-8730-BFB8F436C404:8C8ABCB9-C17A-4074-B439-C80F512FCC8A:0b84PcDP8pMKfhY28a5cTXL03bgrMnPYHzuKLxwvz8U="
+
+  apikey: C4B535C3-677F-783B-8730-BFB8F436C404:8C8ABCB9-C17A-4074-B439-C80F512FCC8A:0b84PcDP8pMKfhY28a5cTXL03bgrMnPYHzuKLxwvz8U=
+
+- text: |
+    apikey = "tmc13n73r7hegUnG30NSt8BO3UxoY3Z:8TdvS0r4ncyB7audRVbMSc2rSehMQWfXCkSJ9crBr0F0rc3GU4nd3rBr0bLernrSp8"
+
+  apikey: tmc13n73r7hegUnG30NSt8BO3UxoY3Z:8TdvS0r4ncyB7audRVbMSc2rSehMQWfXCkSJ9crBr0F0rc3GU4nd3rBr0bLernrSp8

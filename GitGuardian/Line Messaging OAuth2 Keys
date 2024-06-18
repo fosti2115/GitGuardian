@@ -1,0 +1,8 @@
+- text: |
+    line:
+       channelId: 1582442979
+       channelSecret: 914552d59e660d06f3a5e588e5bcdd5a
+    +  # line roro
+       callbackUrl: https://www.tot
+  client_id: '1582442979'
+  client_secret: 914552d59e660d06f3a5e588e5bcdd5a

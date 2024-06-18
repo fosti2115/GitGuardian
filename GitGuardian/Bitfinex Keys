@@ -1,0 +1,10 @@
+- text: |
+    bitfinex
+    key = 2c1c8965468f2a10a3797dafe46adcb34c1d1c294ca
+    secret = 9c6c3965318b8d20f7648dbda96fbfa23f4d1c449aa
+  client_id: 2c1c8965468f2a10a3797dafe46adcb34c1d1c294ca
+  client_secret: 9c6c3965318b8d20f7648dbda96fbfa23f4d1c449aa
+- text: bitfinex key = 2c1c8965468f2a10a3797dafe46adcb34c1d1c294ca secret = 9c6c3965318b8d20f7648dbda96fbfa23f4d1c449aa
+
+  client_id: 2c1c8965468f2a10a3797dafe46adcb34c1d1c294ca
+  client_secret: 9c6c3965318b8d20f7648dbda96fbfa23f4d1c449aa

@@ -1,0 +1,49 @@
+- text: >
+    DB CONTEXT
+    host=mongo.com
+    port=5434
+    username=root
+    password=m42ploz2wd
+  host: mongo.com
+  port: '5434'
+  username: root
+  password: m42ploz2wd
+
+- text: >
+    db_host=mongo.com
+    db_port=5434
+    db_username=root
+    db_password=m42ploz2wd
+  host: mongo.com
+  port: '5434'
+  username: root
+  password: m42ploz2wd
+
+- text: >
+    dbhost=real.database.com
+    dbport=5434
+    dbuser=pilal
+    dbpass=yourock93
+  host: real.database.com
+  port: '5434'
+  username: pilal
+  password: yourock93
+
+- text: >
+    DB CONTEXT
+    host=my.mongo.com:27017
+    username=root
+    password=m42ploz2wd
+  host: my.mongo.com
+  port: '27017'
+  username: root
+  password: m42ploz2wd
+
+- text: >
+    dbhost=my.mongo.com:27017
+    dbuser=root
+    dbpwd=m42ploz2wd
+  host: my.mongo.com
+  port: '27017'
+  username: root
+  password: m42ploz2wd

@@ -1,0 +1,14 @@
+- text: |
+    http.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY");
+  token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY
+
+- text: |
+    +JWT_TOKEN = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY
+  token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY
+
+- text: |
+    <data name="Authorization" xml:space="preserve">
+      <value>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY</value>
+      <comment>Token Bearer de acceso a Zoom</comment>
+    </data>
+  token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImpmM0tFWFhvUnBxYTMxam92VERBd0EiLCJleHAiOjI4NDQ4MDE5NDAsImlhdCI6MTYyMzg3MTc5NX0.6WItA9SzXDFA4gaWftCPx2E94Xj6URS5eWuRXZgvAfY

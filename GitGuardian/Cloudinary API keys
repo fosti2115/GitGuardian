@@ -1,0 +1,17 @@
+- text: |
+    // Config
+    cloudinary.config(
+      cloud_name = "dkyxxomlv",
+      api_key = "994726969699553",
+      api_secret = "uqe1_KhvuIoRfScRwaKy32SrFs9",
+      secure = true
+    )
+  cloud_name: dkyxxomlv
+  client_id: '994726969699553'
+  client_secret: uqe1_KhvuIoRfScRwaKy32SrFs9
+
+- text: |
+    CLOUDINARY_URL=cloudinary://692723469599193:uqp1_KyeuIoRfJaRebWm48DrFs0@dkyxxomlv
+  cloud_name: dkyxxomlv
+  client_id: '692723469599193'
+  client_secret: uqp1_KyeuIoRfJaRebWm48DrFs0

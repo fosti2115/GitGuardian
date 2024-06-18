@@ -1,0 +1,4 @@
+- text: |
+    curl -H "Authorization: Bearer ae54fcc23ade65fa404a65e78c56f898-us1" \
+    https://api.linode.com/v4/account
+  apikey: ae54fcc23ade65fa404a65e78c56f898-us1

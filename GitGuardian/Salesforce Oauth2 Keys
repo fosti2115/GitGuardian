@@ -1,0 +1,13 @@
+- text: |
+    salesforce CONSTANTS +// ----------------------------------------------------------
+    +const CONSUMER_KEY = "3MVG9fTLmJ60pJ5I6fu3pPjYrPcxc.hs9.0cd634pxhqP52jzB1I8dVPTP5OHtqCU2uvqle29N1YDeBSLTwlI";
+    +const CONSUMER_SECRET = "5475249808098367457";
+  client_id: '3MVG9fTLmJ60pJ5I6fu3pPjYrPcxc.hs9.0cd634pxhqP52jzB1I8dVPTP5OHtqCU2uvqle29N1YDeBSLTwlI'
+  client_secret: '5475249808098367457'
+- text: |
+    "Credentials": {
+             "GrantType": "password",
+    -        "ClientId": "3MVG9eQyYZ1h89HeO90IR6o6pmKEiPS.YGCCCOq6fbSYKk0q3MufvMph2aEclMAoWLFW9XBX8twZesSU3hchE",
+    -        "ClientSecret": "2032E4A8427CF5D194883A6C1373D646CAE93452828E4D445588443ECC0ECED6",
+  client_id: 3MVG9eQyYZ1h89HeO90IR6o6pmKEiPS.YGCCCOq6fbSYKk0q3MufvMph2aEclMAoWLFW9XBX8twZesSU3hchE
+  client_secret: 2032E4A8427CF5D194883A6C1373D646CAE93452828E4D445588443ECC0ECED6

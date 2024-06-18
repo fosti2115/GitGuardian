@@ -1,0 +1,14 @@
+- text: knife[:digital_ocean_access_token]  = '710550c7dad844f89c9414db7556e74f3faedf9f5228ab2099c67fa1f2a61f66'
+  apikey: 710550c7dad844f89c9414db7556e74f3faedf9f5228ab2099c67fa1f2a61f66
+- text: self.digital_ocean_handle.input_access_token("a1a7c625c612c3d9a07300b1396fff2ff129342c63d4516b3101fdb61b1f2a48")
+  apikey: a1a7c625c612c3d9a07300b1396fff2ff129342c63d4516b3101fdb61b1f2a48
+- text: "be able to edit the file and set the values. The file should look something like this:\n\n    ---\n vault_do_token: 245b743ede8d627b2e7dfbecc7a94711063b6c24ecd65a38f039a24f407bff54\n"
+  apikey: 245b743ede8d627b2e7dfbecc7a94711063b6c24ecd65a38f039a24f407bff54
+- text: '#define DIGITALOCEAN_CLIENT_SECRET @"245b743ede8d627b2e7dfbecc7a94711063b6c24ecd65a38f039a24f407bff54"'
+  apikey: 245b743ede8d627b2e7dfbecc7a94711063b6c24ecd65a38f039a24f407bff54
+- text: public $tokenDigitalOcean="6b7ebde6030ce371cafc2266c5450c219d93851d7c12561cf6815440c2e3cb19";
+  apikey: 6b7ebde6030ce371cafc2266c5450c219d93851d7c12561cf6815440c2e3cb19
+- text: "Bruk denne do_token-en: ea2543dade39ff6f913510cb763ff989f701e668e5ee2a202eee508bb6a80020\n"
+  apikey: ea2543dade39ff6f913510cb763ff989f701e668e5ee2a202eee508bb6a80020
+- text: knife[:digital_ocean_access_token]  = '710550c7dad844f89c9414db7556e74f3faedf9f5228ab2099c67fa1f2a61f66'
+  apikey: 710550c7dad844f89c9414db7556e74f3faedf9f5228ab2099c67fa1f2a61f66

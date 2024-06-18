@@ -1,0 +1,31 @@
+- text: |
+    client id =  ABIAK52LPFORPRUCRC22
+    CLIENT SECRET = hjshnn5ef2a30565c4654HMSAoaz443d42swljak
+  client_id: ABIAK52LPFORPRUCRC22
+  client_secret: hjshnn5ef2a30565c4654HMSAoaz443d42swljak
+
+- text: |
+    client id =  AKIAX52MPYOTPRUCRC22
+    +S0ugN5wv2mBHr+e7DN7dTqg4Aa6b4l5I0gDRfq9S
+  client_id: AKIAX52MPYOTPRUCRC22
+  client_secret: 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
+
+- text: |
+    //545084392359.signin.aws.amazon.com/console
+    +
+    +
+    +AKIAX52MPYOTPRUCRC22
+    +9rtYl+xkdUhKFuOnnUuBRlqSidexGSq5WlL+NBwu
+    +
+    +===========================
+    +Microservices Co
+  client_id: AKIAX52MPYOTPRUCRC22
+  client_secret: 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
+
+- text: |
+    @@ -0,0 +1,17 @@
+    +#!/bin/bash -e
+    +export AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID:-AKIAIX4ONRSG6ODEFVJA}
+    +export AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY:-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}
+  client_id: AKIAIX4ONRSG6ODEFVJA
+  client_secret: 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

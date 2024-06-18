@@ -1,0 +1,18 @@
+- text: |
+    @@ -38,10 +38,10 @@ AWS_SECRET_ACCESS_KEY=
+     AWS_DEFAULT_REGION=us-east-1
+     AWS_BUCKET=
+
+    -PUSHER_APP_ID=
+    -PUSHER_APP_KEY=
+    -PUSHER_APP_SECRET=
+    -PUSHER_APP_CLUSTER=
+    +PUSHER_APP_ID=931932
+    +PUSHER_APP_KEY=d93e7eade548d00e7755
+    +PUSHER_APP_SECRET=4dc86652b4f69252461e
+    +PUSHER_APP_CLUSTER=ap1
+
+  cluster: ap1
+  app_id: '931932'
+  client_id: d93e7eade548d00e7755
+  client_secret: 4dc86652b4f69252461e

@@ -1,0 +1,17 @@
+- text: |
+    host="https://centralus.azuredatabricks.net"
+    token="dapi72766020efab76b5ad71bd6107344301"
+  token: dapi72766020efab76b5ad71bd6107344301
+  host: centralus.azuredatabricks.net
+
+- text: |
+    token=dapi72766020efab76b5ad71bd6107344301"
+    hostname=e2-demo-corp.cloud.databricks.com
+  token: dapi72766020efab76b5ad71bd6107344301
+  host: e2-demo-corp.cloud.databricks.com
+
+- text: |
+    host  = https://dbc-bd557e10-904d.cloud.databricks.com/?autoLogin=true&account_id=5dfd135f-48e7-4bd7-bfb5-668950f664db&o=910042726816023
+    token = dapi72766020efab76b5ad71bd6107344301
+  token: dapi72766020efab76b5ad71bd6107344301
+  host: dbc-bd557e10-904d.cloud.databricks.com

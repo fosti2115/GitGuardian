@@ -1,0 +1,13 @@
+- text: |
+    client = session.client('s3',
+                      region_name='ams3',
+                      endpoint_url='https://ams3.digitaloceanspaces.com',
+                      aws_access_key_id='CO7HMQ4XDCGED3PTUJOC',
+                      aws_secret_access_key='qg23gFx3boMaQfavW/skdnLL+3/L1Yab4KvuJkXZ5lE')
+  client_id: 'CO7HMQ4XDCGED3PTUJOC'
+  client_secret: 'qg23gFx3boMaQfavW/skdnLL+3/L1Yab4KvuJkXZ5lE'
+
+- text: |
+    dos://CO7HMQ4XDCGED3PTUJOC:qg23gFx3boMaQfavW/skdnLL+3/L1Yab4KvuJkXZ5lE@ams3.digitaloceanspaces.com
+  client_id: 'CO7HMQ4XDCGED3PTUJOC'
+  client_secret: 'qg23gFx3boMaQfavW/skdnLL+3/L1Yab4KvuJkXZ5lE'

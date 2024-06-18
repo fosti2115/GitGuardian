@@ -1,0 +1,14 @@
+- text: |
+    extra-index-url = https://1xqxBg-3BCln5kxQsiBDOoNPsGudfyJZE@repo.fury.io/fvuo1b
+  apikey: 1xqxBg-3BCln5kxQsiBDOoNPsGudfyJZE
+  username: fvuo1b
+- text: |
+    # URL repo.fury.io context
+    deploy_token = https://e9ZPM-dD1lDuhPErMC8mYZ2XXk4XiCSY@repo.fury.io/fvuo1b/
+  apikey: e9ZPM-dD1lDuhPErMC8mYZ2XXk4XiCSY
+  username: fvuo1b
+- text: |
+    # URL repo.fury.io context
+    push_token = https://NR6Ip-fqLmxT4oLsAr6asXX9KTSVfefQ@push.fury.io/fvuo1b/
+  apikey: NR6Ip-fqLmxT4oLsAr6asXX9KTSVfefQ
+  username: fvuo1b

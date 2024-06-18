@@ -1,0 +1,12 @@
+- text: |
+    sgp_4e2fe8ba8372df204c27b1b9808ecf7c1a8d4a56
+  apikey: sgp_4e2fe8ba8372df204c27b1b9808ecf7c1a8d4a56
+
+- text: |
+    sgp_aba7ccb4f752ea73_986d7fd26ccceea3f3c51dfa2ab8432616bf5fbf
+  apikey: sgp_aba7ccb4f752ea73_986d7fd26ccceea3f3c51dfa2ab8432616bf5fbf
+
+- text: |
+    sourcegraph for context
+    token=986d7fd26ccceea3f3c51dfa2ab8432616bf5fbf
+  apikey: 986d7fd26ccceea3f3c51dfa2ab8432616bf5fbf

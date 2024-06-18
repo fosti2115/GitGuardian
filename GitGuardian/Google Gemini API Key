@@ -1,0 +1,11 @@
+- text: |
+    let myBard = new Bard("Wwgq7RoGrFoqJJs5jJ6SPxykY4BkusO4Oggyfcejnao4ov_IZ3PvE79BHNMcgs-RJOkRTw.")
+  apikey: Wwgq7RoGrFoqJJs5jJ6SPxykY4BkusO4Oggyfcejnao4ov_IZ3PvE79BHNMcgs-RJOkRTw.
+
+- text: |
+    os.environ["_BARD_API_KEY"] = "YgibgNtefjuLXcbnx9WLGzFp1AiSdHmDvFA0elFUPBsQ3lZLR-SBuiERL1zupq5Nz3detw."
+  apikey: YgibgNtefjuLXcbnx9WLGzFp1AiSdHmDvFA0elFUPBsQ3lZLR-SBuiERL1zupq5Nz3detw.
+
+- text: |
+    __Secure-1PSID=YwgwRaZwHkQlJbXr2vQ8XfqOjsrUVuBVLaUztdnoGWKCj2_zFNzdzUwriQKUb_NUAVM-aw.
+  apikey: YwgwRaZwHkQlJbXr2vQ8XfqOjsrUVuBVLaUztdnoGWKCj2_zFNzdzUwriQKUb_NUAVM-aw.

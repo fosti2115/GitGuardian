@@ -1,0 +1,4 @@
+- text: |
+    sh > sqreen-install.sh && bash sqreen-install.sh 'org_8bdf8d8bcabfbe20ded38b10a07510b2b6dd9ac5786467c6a2fdf88193e9' '${SQREEN_APP_NAME}'
+    RUN sqreen-installer config
+  apikey: org_8bdf8d8bcabfbe20ded38b10a07510b2b6dd9ac5786467c6a2fdf88193e9

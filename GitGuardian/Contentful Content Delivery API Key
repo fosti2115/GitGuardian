@@ -1,0 +1,30 @@
+- text: |
+    # contentful credentials
+    SPACE_ID = 'cjgk2fn5yome'
+    ACCESS_TOKEN = '9Rpff2_uxUrxuiyE_VQ7LlLcwWEqgTooEymLCkNFECA'
+  client_id: cjgk2fn5yome
+  client_secret: 9Rpff2_uxUrxuiyE_VQ7LlLcwWEqgTooEymLCkNFECA
+- text: |
+    import { createClient } from 'contentful';
+
+    const Client = createClient({
+        space: '8icnvc7n28re',
+        accessToken: 'ZTrL6TXWsP-A-FrUi6SEGcqw3u4kLSeMQx76gih14Go',
+    });
+  client_id: 8icnvc7n28re
+  client_secret: ZTrL6TXWsP-A-FrUi6SEGcqw3u4kLSeMQx76gih14Go
+- text: |
+    export const environment = {
+      // Contentful Credentials
+      spaceId: '8icnvc7n28re',
+      token: 'ab0e432b69b041271b60fbb48110dac5d4066d8751c46ab96ce7ffffffffffff',
+    }
+  client_id: 8icnvc7n28re
+  client_secret: ab0e432b69b041271b60fbb48110dac5d4066d8751c46ab96ce7ffffffffffff
+- text: |
+    # contentful credentials
+    SPACE_ID = 'cjgk2fn5yome'
+    ACCESS_TOKEN = '9Rpff2_uxUrxuiyE_VQ7LlLcwWEqgTooEymLCkNFECA'
+
+  client_id: cjgk2fn5yome
+  client_secret: 9Rpff2_uxUrxuiyE_VQ7LlLcwWEqgTooEymLCkNFECA

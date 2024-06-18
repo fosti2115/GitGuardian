@@ -1,0 +1,23 @@
+- text: |
+    CONNECTION_STRING="data source=google.com;Port=5434;Initial Catalog=colegioar;Persist Security Info=True;User ID=postgres;Password=m72bnos2wf;application name=EntityFramework"
+  host: google.com
+  port: '5434'
+  username: postgres
+  password: m72bnos2wf
+  connection_string: data source=google.com;Port=5434;Initial Catalog=colegioar;Persist Security Info=True;User ID=postgres;Password=m72bnos2wf;application name=EntityFramework
+
+- text: |
+    CONNECTION_STRING="data source=google.com,5434;Initial Catalog=colegioar;User ID=postgres;Password=m72bnos2wf;application name=EntityFramework"
+  host: google.com
+  port: '5434'
+  username: postgres
+  password: m72bnos2wf
+  connection_string: data source=google.com,5434;Initial Catalog=colegioar;User ID=postgres;Password=m72bnos2wf;application name=EntityFramework
+
+- text: |
+    spring.datasource.url=jdbc:sqlserver://google.com:1433;user=begen;password=zjejc;
+  host: google.com
+  port: '1433'
+  username: begen
+  password: zjejc
+  connection_string: url=jdbc:sqlserver://google.com:1433;user=begen;password=zjejc;

@@ -1,0 +1,6 @@
+- text: |
+    +var config = new _1.ServicesConfig();
+    +config.secretApiKey = "skapi_cert_ZdSdEQCH7l4A2ThAoBBEXEbCG1lIi7KAf5Cskn6Nag";
+    +config.serviceUrl = "https://cert.api2-c.heartlandportico.com";
+
+  apikey: skapi_cert_ZdSdEQCH7l4A2ThAoBBEXEbCG1lIi7KAf5Cskn6Nag

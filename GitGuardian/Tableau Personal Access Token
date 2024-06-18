@@ -1,0 +1,14 @@
+- text: +tableau_auth = TSC.PersonalAccessTokenAuth(
+    +    "google",
+    +    "yPpTjHqKSmadrb4/D4+fwQ==:NThFOCjyrboMzhdOuhKgC0eg4t10SSND",
+    +    site_id="ggle_site",
+    +)
+  apikey: yPpTjHqKSmadrb4/D4+fwQ==:NThFOCjyrboMzhdOuhKgC0eg4t10SSND
+- text: tableau_auth = TSC.PersonalAccessTokenAuth('user', 'WLQKWBs1TnuBx4G7gIzz/w==:yDwZ74EWDPIgU6cSlz8RDJHp7CV2rtFP', 'usersite')
+
+  apikey: WLQKWBs1TnuBx4G7gIzz/w==:yDwZ74EWDPIgU6cSlz8RDJHp7CV2rtFP
+
+- text:
+    http://34.124.166.158/api/3.17/sites/7ebac3d3-55b7-4cc1-87f3-e55da6ec1437/views  -H "X-Tableau-Auth:tHc010hNQ_CZ9iIFjyidhw|aITMcKzT8GIXHGTkYFtskZqxLXUicj4u|7ebac3d3-55b7-4cc1-87f3-e55da6ec1437"  --verbose
+    +which "X-Tableau
+  apikey: tHc010hNQ_CZ9iIFjyidhw|aITMcKzT8GIXHGTkYFtskZqxLXUicj4u

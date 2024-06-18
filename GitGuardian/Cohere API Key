@@ -1,0 +1,3 @@
+- text: |
+    co = cohere.Client('902c619882c71706ad991f5b8f469ab3ht5637h9')
+  apikey: 902c619882c71706ad991f5b8f469ab3ht5637h9

@@ -1,0 +1,11 @@
+- text: |
+    @@ -11,12 +11,20 @@ spring.jpa.database=mysql
+     rollbar.access_token=rollbarToken
+     rollbar.enabled=false
+     #VISA
+    +#visa.base_url=https://sandbox.api.visa.com
+    +#visa.username=R7VBQT6D8VM8F1E32ZG7402lfAHAhXdJFpBHrlukrJFEudM58
+    +#visa.password=WEOY31762fSkGbrdhvcZO12sAv7fgB15p323DwX
+
+  client_id: R7VBQT6D8VM8F1E32ZG7402lfAHAhXdJFpBHrlukrJFEudM58
+  client_secret: WEOY31762fSkGbrdhvcZO12sAv7fgB15p323DwX

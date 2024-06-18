@@ -1,0 +1,10 @@
+- text: |
+    {"installed":{"client_id":"332292536747-zbepioq1127w4lv5r6dbbddd0jdbdchl.apps.googleusercontent.com","project_id":"test-1551099712230","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"daAKAFW-bt05isOoQwwWP8c-","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+  client_id: 332292536747-zbepioq1127w4lv5r6dbbddd0jdbdchl.apps.googleusercontent.com
+  client_secret: daAKAFW-bt05isOoQwwWP8c-
+
+- text: |
+    client_id:"332292536747-qbemiti5130k6gv5t4cddddd2omaeans.apps.googleusercontent.com"
+    client_secret: "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"
+  client_id: 332292536747-qbemiti5130k6gv5t4cddddd2omaeans.apps.googleusercontent.com
+  client_secret: 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

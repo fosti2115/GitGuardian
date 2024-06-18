@@ -1,0 +1,10 @@
+- text: |
+    dwolla
+    id = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245eaa154560
+    secret = 3c0c396536aec451aZ=8a6b10f7640dbda46abfd23a4d1c245
+  client_id: 3c0c3965368a6b10f7640dbda46abfd23a4d1c245eaa154560
+  client_secret: 3c0c396536aec451aZ=8a6b10f7640dbda46abfd23a4d1c245
+- text: dwolla id = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245eaa154560 secret = 3c0c396536aec451aZ=8a6b10f7640dbda46abfd23a4d1c245
+
+  client_id: 3c0c3965368a6b10f7640dbda46abfd23a4d1c245eaa154560
+  client_secret: 3c0c396536aec451aZ=8a6b10f7640dbda46abfd23a4d1c245

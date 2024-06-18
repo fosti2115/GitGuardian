@@ -1,0 +1,9 @@
+- text: |
+    Mainnet: ['https://eth-mainnet.alchemyapi.io/v2/PajdHzB75s1V_7aldcQ6XbodqDCWMC7m']
+  apikey: PajdHzB75s1V_7aldcQ6XbodqDCWMC7m
+- text: |
+    Goerli: [
+      'https://eth-goerli.alchemyapi.io/v2/AGtF3w2AsccY_bfsdDleaVRehW2xGS7W',
+    ]
+
+  apikey: AGtF3w2AsccY_bfsdDleaVRehW2xGS7W

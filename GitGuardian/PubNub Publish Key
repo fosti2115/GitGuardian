@@ -1,0 +1,5 @@
+- text: "PUB_KEY = 'pub-c-d3ff6da6-faa9-11m5-4160-0379f8149h4d'"
+  apikey: pub-c-d3ff6da6-faa9-11m5-4160-0379f8149h4d
+
+- text: "PNConfiguration *configuration = [PNConfiguration configurationWithPublishKey:@'pub-c-7e0453e2-5134-10e9-b63y-321d8ea4365d'];"
+  apikey: pub-c-7e0453e2-5134-10e9-b63y-321d8ea4365d

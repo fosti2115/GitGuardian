@@ -1,0 +1,7 @@
+- text: fig("spark.databricks.service.token", "dapi72766020efab76b5ad71bd6107344301"
+  token: dapi72766020efab76b5ad71bd6107344301
+
+- text: |
+    +login token
+    +password dapi82351a65625ee2c246d841e682355380
+  token: dapi82351a65625ee2c246d841e682355380

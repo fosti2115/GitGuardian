@@ -1,0 +1,3 @@
+- text: |
+    export BUNDLE_GEMS__CONTRIBSYS__COM=06c4ff26:1c34e94e
+  apikey: '06c4ff26:1c34e94e'

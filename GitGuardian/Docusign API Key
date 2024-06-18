@@ -1,0 +1,7 @@
+- text: |
+    docusign_secret_key = 5e26ce6d-94cf-4bf6-9e9e-9213373c15f4
+  apikey: 5e26ce6d-94cf-4bf6-9e9e-9213373c15f4
+- text: |
+    docusign
+    DS_SECRET = 2d1e29c7-2075-4e78-834b-64f57f8757d0
+  apikey: 2d1e29c7-2075-4e78-834b-64f57f8757d0

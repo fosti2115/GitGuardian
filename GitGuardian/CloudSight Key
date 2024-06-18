@@ -1,0 +1,10 @@
+- text: |
+    cloudsight api_key=3a0c1968368a6b50e7620d
+  apikey: 3a0c1968368a6b50e7620d
+
+- text: |
+    auth = cloudsight.SimpleAuth('gtHokjZfv_nAwNO1kbf9Av')
+  apikey: gtHokjZfv_nAwNO1kbf9Av
+- text: cloudsight api_key=3a0c1968368a6b50e7620d
+
+  apikey: 3a0c1968368a6b50e7620d

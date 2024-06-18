@@ -1,0 +1,6 @@
+- text: |
+    coveralls_token=QEAuo5Pufwa2TGqQpst3a1HFSp3v9mKTFd4aJ
+  apikey: QEAuo5Pufwa2TGqQpst3a1HFSp3v9mKTFd4aJ
+- text: |
+    coveralls_secret=HpdRcNheCBfZ5RcrQcqit1zADgyDcUmjQR9j
+  apikey: HpdRcNheCBfZ5RcrQcqit1zADgyDcUmjQR9j # shorter length

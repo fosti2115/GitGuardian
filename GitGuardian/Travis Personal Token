@@ -1,0 +1,14 @@
+- text: |
+    +export EDITOR='emacs -nw'
+    +
+     export TRAVIS_TOKEN=WKto9_eZf3lNw28shUfaZC
+
+     export PATH=$HOME/.bash/bin:$PATH
+  apikey: WKto9_eZf3lNw28shUfaZC
+- text: |
+    +export EDITOR='emacs -nw' 
+    +
+      export TRAVIS_TOKEN=WKto9_eZf3lNw28shUfaZC
+
+      export PATH=$HOME/.bash/bin:$PATH
+  apikey: WKto9_eZf3lNw28shUfaZC

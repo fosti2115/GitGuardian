@@ -1,0 +1,5 @@
+- text: |
+    PLAID_CLIENT_ID = a1c1774894e2b8b54bc1b78b
+    PLAID_SECRET = 63b5936f38dbfed45bd53eff7d3db5
+  client_id: a1c1774894e2b8b54bc1b78b
+  client_secret: 63b5936f38dbfed45bd53eff7d3db5

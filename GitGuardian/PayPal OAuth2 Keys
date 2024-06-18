@@ -1,0 +1,35 @@
+- text: PAYPAL_ID=AdGE8hDyixVoHmbhASqAThfbBcrbcgiJPBwlAM7u7Kfq3YU-iPGc6BXETtpt\nPAYPAL_SECRET=EPN0WxB5PaRaumTB1ZpCuTuqLqIlF6_EWUcAbZV99Eu86YeNBVm9KVsw_Ez5
+  client_id: AdGE8hDyixVoHmbhASqAThfbBcrbcgiJPBwlAM7u7Kfq3YU-iPGc6BXETtpt
+  client_secret: EPN0WxB5PaRaumTB1ZpCuTuqLqIlF6_EWUcAbZV99Eu86YeNBVm9KVsw_Ez5
+- text: PAYPAL_ID=AdGE8hDyixVoHmbhASqAThfbBcrbcgiJPBwlAM7u7Kfq3YU-iPGc6BXETtpt\nPAYPAL_SECRET=EPN0WxB5PaRaumTB1ZpCuTuqLqIlF6_EWUcAbZV99Eu86YeNBVm9KVsw_Ez5
+  client_id: AdGE8hDyixVoHmbhASqAThfbBcrbcgiJPBwlAM7u7Kfq3YU-iPGc6BXETtpt
+  client_secret: EPN0WxB5PaRaumTB1ZpCuTuqLqIlF6_EWUcAbZV99Eu86YeNBVm9KVsw_Ez5
+
+- text: |
+    cy.request({
+      method: 'POST',
+      url: 'https://api.paypal.com/v1/oauth2/token',
+      form: true,
+      headers: {
+        authorization: "Basic QVdMNkxmT3poRWZISGJWYjhES0lnUWYtWkNQSG80UzJXdnRMT09HT1lZX2g4MVpXYWEzRlBZR3c1LWtDX19acHYyU0ZEMW43dmFqV3dzOW86RUVQblp0MlI5NEhnWFM0SGROYmpmdmQ1Q0ZLczJ5cEMxQzQ1Zl9wRHpDUGwySDgyVmhYWk5TdndsQjR1YjBBeXF4MDhpcUpaQ3RXUTJIR0Y="
+      },
+      body: {
+        grant_type: "client_credentials"
+      },
+    })
+  client_id: QVdMNkxmT3poRWZISGJWYjhES0lnUWYtWkNQSG80UzJXdnRMT09HT1lZX2g4MVpXYWEzRlBZR3c1LWtDX19acHYyU0ZEMW43dmFqV3dzOW8
+  client_secret: RUVQblp0MlI5NEhnWFM0SGROYmpmdmQ1Q0ZLczJ5cEMxQzQ1Zl9wRHpDUGwySDgyVmhYWk5TdndsQjR1YjBBeXF4MDhpcUpaQ3RXUTJIR0Y
+- text: |
+    cy.request({
+      method: 'POST',
+      url: 'https://api.paypal.com/v1/oauth2/token',
+      form: true,
+      headers: {
+        authorization: "Basic QVdMNkxmT3poRWZISGJWYjhES0lnUWYtWkNQSG80UzJXdnRMT09HT1lZX2g4MVpXYWEzRlBZR3c1LWtDX19acHYyU0ZEMW43dmFqV3dzOW86RUVQblp0MlI5NEhnWFM0SGROYmpmdmQ1Q0ZLczJ5cEMxQzQ1Zl9wRHpDUGwySDgyVmhYWk5TdndsQjR1YjBBeXF4MDhpcUpaQ3RXUTJIR0Y="
+      },
+      body: {
+        grant_type: "client_credentials"
+      },
+    })
+  client_id: QVdMNkxmT3poRWZISGJWYjhES0lnUWYtWkNQSG80UzJXdnRMT09HT1lZX2g4MVpXYWEzRlBZR3c1LWtDX19acHYyU0ZEMW43dmFqV3dzOW8
+  client_secret: RUVQblp0MlI5NEhnWFM0SGROYmpmdmQ1Q0ZLczJ5cEMxQzQ1Zl9wRHpDUGwySDgyVmhYWk5TdndsQjR1YjBBeXF4MDhpcUpaQ3RXUTJIR0Y

@@ -1,0 +1,3 @@
+- text: |
+    response = requests.get("https://enterprise.gitguardian.com/api/v1/is_alive", headers={"Authorization": "Token 40dF9C14a456502E293DBBA5a6ACCC8c655486Eb7c75e5D88EBd8Ee14A64EEdaeED49aB"})
+  apikey: 40dF9C14a456502E293DBBA5a6ACCC8c655486Eb7c75e5D88EBd8Ee14A64EEdaeED49aB

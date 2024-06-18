@@ -1,0 +1,8 @@
+- text: |
+    GEMFURY_URL=https://Snpp7y42zaJCXkFbSfQa:@pypi.fury.io/sup3rU5er
+  apikey: Snpp7y42zaJCXkFbSfQa
+  username: sup3rU5er
+- text: |
+    GEMFURY_URL=https://Snpp7y42zaJCXkFbSfQa:@npm.fury.io/sup3rU5er
+  apikey: Snpp7y42zaJCXkFbSfQa
+  username: sup3rU5er

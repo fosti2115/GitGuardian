@@ -1,0 +1,9 @@
+- text: |
+    SpotifyClientID = "f895e890f3734bd18fdcf1d980158139"
+    SpotifyClientSecret = "738bb13ee54323919ac53c48baf17fa9"
+  client_id: f895e890f3734bd18fdcf1d980158139
+  client_secret: 738bb13ee54323919ac53c48baf17fa9
+- text: SpotifyClientID = "f895e890f3734bd18fdcf1d980158139" SpotifyClientSecret = "738bb13ee54323919ac53c48baf17fa9"
+
+  client_id: f895e890f3734bd18fdcf1d980158139
+  client_secret: 738bb13ee54323919ac53c48baf17fa9

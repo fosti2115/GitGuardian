@@ -1,0 +1,24 @@
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+
+public class AzureDevOpsOAuth
+{
+    private static string personalAccessToken = "PAT_abcd1234abcd1234abcd1234abcd1234abcd";
+    private static string organization = "your-organization";
+    private static string project = "your-project";
+
+    public static async Task<string> GetBuildsAsync()
+    {
+        using (var client = new HttpClient())
+        {
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", personalAccessToken);
+
+            var response = await client.GetAsync($"https://dev.azure.com/{organization}/{project}/_apis/build/builds?api-version=6.0");
+            response.EnsureSuccessStatusCode();
+
+            return await response.Content.ReadAsStringAsync();
+        }
+    }
+}

@@ -1,0 +1,14 @@
+- text: |
+    $ curl -H 'Authorization: rubygems_123abc01a15f32b0be0103de4c9b3dcb3f2fea0fa8a84f23' \
+               https://rubygems.org/api/v1/gems.json
+  apikey: rubygems_123abc01a15f32b0be0103de4c9b3dcb3f2fea0fa8a84f23
+- text: |
+    ----
+    -:rubygems_api_key: rubygems_123abc01a15f32b0be0103de4c9b3dcb3f2fea0fa8a84f23
+    -:status: :ok
+  apikey: rubygems_123abc01a15f32b0be0103de4c9b3dcb3f2fea0fa8a84f23
+
+- filename: credentials
+  text: |
+    :gemstash_key: e374b232fbf5db4718d9a21fd63bc410
+  apikey: e374b232fbf5db4718d9a21fd63bc410

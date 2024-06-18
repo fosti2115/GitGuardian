@@ -1,0 +1,4 @@
+- text: |
+    curl -X GET  'https://rest.nexmo.com/account/get-balance?api_key=864919f3&api_secret=bjrDnPt6HrfVjzDv'
+  client_id: '864919f3'
+  client_secret: 'bjrDnPt6HrfVjzDv'

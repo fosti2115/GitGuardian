@@ -1,0 +1,8 @@
+- text: PACKAGECLOUD_TOKEN=f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f
+  apikey: f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f
+
+- text: 'curl https://f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f:@packagecloud.io/api/v1/distributions.json'
+  apikey: f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f
+
+- text: 'curl -u f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f: https://packagecloud.io/api/v1/distributions.json'
+  apikey: f77c055cba2c7b77700fb436f3b8931142f7a0799913fe4f

@@ -1,0 +1,3 @@
+- text: |
+    client = new LaunchDarklyClient("sdk-cccc8e11-8b28-4166-bd7a-338c59bcddfe");
+  apikey: sdk-cccc8e11-8b28-4166-bd7a-338c59bcddfe

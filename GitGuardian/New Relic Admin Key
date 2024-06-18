@@ -1,0 +1,18 @@
+- text: "idpolicies=$(curl -X GET 'https://api.newrelic.com/v2/alerts_policies.json' -H X-Api-Key: b862dec293faae411c31b3160819c591 -s -G |jq '.policies[] .id')"
+  apikey: b862dec293faae411c31b3160819c591
+- text: 'new_relic X-Api-Key=Af6C6D840F7eA47a6951eFea8EEc87bB -s -G '
+  apikey: Af6C6D840F7eA47a6951eFea8EEc87bB
+- text: "new-relic-key= '994F83CaBc62E1B70fABc1902E01289B'"
+  apikey: 994F83CaBc62E1B70fABc1902E01289B
+- text: '#new relic Key:BA68b97FDdb8bc9F58Ab3BC2A117c94E'
+  apikey: BA68b97FDdb8bc9F58Ab3BC2A117c94E
+- text: "idpolicies=$(curl -X GET 'https://api.newrelic.com/v2/alerts_policies.json' -H X-Api-Key: b862dec293faae411c31b3160819c591 -s -G |jq '.policies[] .id')"
+  apikey: b862dec293faae411c31b3160819c591
+
+- text: |
+    "admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
+  apikey: NRAA-4780f48c46df5882dbec0fd81c7
+
+- text: |
+    "newrelic admin_access:NRAA-4780f48c46df5882dbec0fd81c7"
+  apikey: NRAA-4780f48c46df5882dbec0fd81c7

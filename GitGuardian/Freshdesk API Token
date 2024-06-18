@@ -1,0 +1,11 @@
+- text: |
+    +FRESHDESK_API_KEY = "UQ7reChvIt7pGOQabc"
+    +FRESHDESK_COMPANY_DOMAIN = "abcdef"
+  domain: abcdef
+  apikey: UQ7reChvIt7pGOQabc
+
+- text: |
+    +FRESHDESK_API_KEY = "UQ7reChvIt7pGOQabc"
+    +FRESHDESK_COMPANY_URL = "abcdef.freshdesk.com"
+  domain: abcdef
+  apikey: UQ7reChvIt7pGOQabc

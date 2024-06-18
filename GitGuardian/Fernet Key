@@ -1,0 +1,3 @@
+- text: |
+    AIRFLOW__CORE__FERNET_KEY: '_A_UpPHWufDxTHxA3Q06OBMaESjF2yfbnIXEL1B-LyM='
+  private_key: _A_UpPHWufDxTHxA3Q06OBMaESjF2yfbnIXEL1B-LyM=

@@ -1,0 +1,3 @@
+- text: |
+    curl -X POST url/call-model -d '{"accessKey":"myviox3evtctd97y1zc9ccvnodnvwrn3"}
+  apikey: myviox3evtctd97y1zc9ccvnodnvwrn3

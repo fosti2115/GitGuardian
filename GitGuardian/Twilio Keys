@@ -1,0 +1,4 @@
+- text: |
+    var Twilio = require('twilio'); +var fs = require('fs'); +var path = require('path'); + +var apiKeySid='SK1fe059e17c773de4c071a57f9f975873'; +var apiKeySecret='4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'
+  client_id: 'SK1fe059e17c773de4c071a57f9f975873'
+  client_secret: '4BDNaWxPP5naXdt54Fb4KwAWkfNohej8'

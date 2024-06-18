@@ -1,0 +1,22 @@
+- text: |
+    +#https://medium.com/securing-spring-boot-rest-apis-with-keycloak-alpha-beta
+    +keycloak:
+    +  auth-server-url: http://quick-start-random.nip.io/auth
+    +  bearer-only: true
+    +  credentials:
+    +    client-id: 528bed53-f405-406a-96c0-5e921c7b39fe
+    +    secret: 63488e67-3e19-43de-997e-833673aea340
+    +  realm: a-random-realm
+    +  resource: random-server
+    +  use-resource-role-mappings: true
+
+  client_id: 528bed53-f405-406a-96c0-5e921c7b39fe
+  apikey: 63488e67-3e19-43de-997e-833673aea340
+
+- text: |
+    +keycloak.principal-attribute=preferred_username
+    +keycloak.credential.client-id=2046f7b3-b878-4bc5-8f7f-57b24ce19d85
+    +keycloak.credentials.secret=0aa1dabc-1d8a-4c00-85c2-82bc88c42dc7
+    +keycloak.disable-trust-manager=true
+  client_id: 2046f7b3-b878-4bc5-8f7f-57b24ce19d85
+  apikey: 0aa1dabc-1d8a-4c00-85c2-82bc88c42dc7

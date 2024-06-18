@@ -1,0 +1,5 @@
+- text: |
+    // Add NETLIFY_TOKEN to your environment variables
+    string token = "8b6aa9536c1f82b1bfc44025714c0ef0bea78bdc4778fe892ddd34792af9d79b";//EnvironmentVariable("NETLIFY_TOKEN");
+    if(string.IsNullOrEmpty(token))
+  apikey: 8b6aa9536c1f82b1bfc44025714c0ef0bea78bdc4778fe892ddd34792af9d79b

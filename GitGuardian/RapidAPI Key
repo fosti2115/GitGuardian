@@ -1,0 +1,8 @@
+- text: headers.add("x-rapidapi-key", "33f2273843mshca3d1f6d4845862p138d48jtnbb59d94c7eb9");
+  apikey: 33f2273843mshca3d1f6d4845862p138d48jtnbb59d94c7eb9
+
+- text: private const string API_KEY = "f08c685137msh73607b9c030edcdp176fc7jsn2d554ffca985";
+  apikey: f08c685137msh73607b9c030edcdp176fc7jsn2d554ffca985
+
+- text: app_id=edamam-recipe-search.p.rapidapi.com&app_key=5608156f22msh0134e81f7377536q10082bgsn69cfd82abbca
+  apikey: 5608156f22msh0134e81f7377536q10082bgsn69cfd82abbca

@@ -1,0 +1,50 @@
+- text: |
+    @@ -0,0 +1,10 @@
+    +package com.qa.jira;
+    +
+    +public class JiraUtil {
+    +
+    +   public static final String JIRA_URL = "https://ggfoundme.atlassian.net";
+    +
+    +   public static final String JIRA_USERNAME = "ggfoundme2007@gmail.com";
+    +   public static final String JIRA_PASSWORD = "VDOheDe1sSCeGkuTARhkFDE2";
+    +   public static final String JIRA_PROJECT = "VNTPRJCT12";
+    +}
+
+  host: https://ggfoundme.atlassian.net
+  username: ggfoundme2007@gmail.com
+  token: VDOheDe1sSCeGkuTARhkFDE2
+
+- text: |
+    +jira.myAccessToken=khEPIVYz26ZfGL9bYTEl4398
+     jira.username=hi.myleak@gmail.com
+     jira.sprintUri= https://leakyday.atlassian.net/rest
+
+  token: khEPIVYz26ZfGL9bYTEl4398
+  username: hi.myleak@gmail.com
+  host: https://leakyday.atlassian.net
+- text: |
+    @@ -0,0 +1,10 @@ 
+    +package com.qa.jira; 
+    + 
+    +public class JiraUtil { 
+    + 
+    +   public static final String JIRA_URL = "https://ggfoundme.atlassian.net"; 
+    + 
+    +   public static final String JIRA_USERNAME = "ggfoundme2007@gmail.com"; 
+    +   public static final String JIRA_PASSWORD = "VDOheDe1sSCeGkuTARhkFDE2"; 
+    +   public static final String JIRA_PROJECT = "VNTPRJCT12"; 
+    +}
+
+  host: https://ggfoundme.atlassian.net
+  username: ggfoundme2007@gmail.com
+  token: VDOheDe1sSCeGkuTARhkFDE2
+
+- text: |
+    +jira.myAccessToken=ATATT3xFfGF01k_7IfVNdJJYIJdVWSrBCa5zr4lOXmV01BouL2J2N59kpmhaX0Si3jUfpLg3q88BcmdXgXmCLagah-R4-xjDVVFBRJ3iMzdU2ixY2W5DGMwIu-_8_bsxW9Iap_gnhXt9UVtCTcZCFFRfgA8lAWENVnXwY1mSWZauN-9aknFJQZE=357C17F1
+     jira.username=hi.myleak@gmail.com
+     jira.sprintUri= https://leakyday.atlassian.net/rest
+
+  token: ATATT3xFfGF01k_7IfVNdJJYIJdVWSrBCa5zr4lOXmV01BouL2J2N59kpmhaX0Si3jUfpLg3q88BcmdXgXmCLagah-R4-xjDVVFBRJ3iMzdU2ixY2W5DGMwIu-_8_bsxW9Iap_gnhXt9UVtCTcZCFFRfgA8lAWENVnXwY1mSWZauN-9aknFJQZE=357C17F1
+  username: hi.myleak@gmail.com
+  host: https://leakyday.atlassian.net

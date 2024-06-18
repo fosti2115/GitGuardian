@@ -1,0 +1,11 @@
+- text: |
+    SONAR_TOKEN="8542358fa39f75d30ca699bc27c57335e047c162"
+  apikey: 8542358fa39f75d30ca699bc27c57335e047c162
+
+- text: |
+    sonar.login=sqp_5a03f4395033c714f44cddfabb60fe2a65fcb4bd
+  apikey: sqp_5a03f4395033c714f44cddfabb60fe2a65fcb4bd
+
+- text: |
+    sonar.login=squ_0a81f6490875e062f79ccdeace23ac3c68dac6ec
+  apikey: squ_0a81f6490875e062f79ccdeace23ac3c68dac6ec

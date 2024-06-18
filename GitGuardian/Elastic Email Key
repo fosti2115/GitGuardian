@@ -1,0 +1,13 @@
+- text: |
+    public function send_email2($pesan, $email){
+    $url = 'https://api.elasticemail.com/v2/email/send';
+    try{
+            'apikey' => '156233e6-5065-40aa-bd1d-051b4a658a45'
+  apikey: 156233e6-5065-40aa-bd1d-051b4a658a45
+- text: "url:'https://api.elasticemail.com/v2/email/send \n 'apikey': 'a82d35a4-2e83-41c2-9509-5c6e116ebc2b',"
+  apikey: a82d35a4-2e83-41c2-9509-5c6e116ebc2b
+- text:
+    public function send_email2($pesan, $email){ $url = 'https://api.elasticemail.com/v2/email/send'; try{
+    'apikey' => '156233e6-5065-40aa-bd1d-051b4a658a45'
+
+  apikey: 156233e6-5065-40aa-bd1d-051b4a658a45

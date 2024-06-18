@@ -1,0 +1,10 @@
+- text: |
+    kraken
+    api_key = 'aAaDfbEHkWsXxhbcqWMjPMsC3r6hmEnoUg+3LvxYRQBDP6Y3t3Hbp1EU'
+    api_secret = 'ybhF6zUDQyvVc8IzvATgmrASRCIfkFJD+ZU+GvuSX/v7Wso5H+/BBaCq4t8m6m72y2S4k9lU8N1ESuYtc+yP1g=='
+  client_id: aAaDfbEHkWsXxhbcqWMjPMsC3r6hmEnoUg+3LvxYRQBDP6Y3t3Hbp1EU
+  client_secret: ybhF6zUDQyvVc8IzvATgmrASRCIfkFJD+ZU+GvuSX/v7Wso5H+/BBaCq4t8m6m72y2S4k9lU8N1ESuYtc+yP1g==
+- text: kraken api_key = 'aAaDfbEHkWsXxhbcqWMjPMsC3r6hmEnoUg+3LvxYRQBDP6Y3t3Hbp1EU' api_secret = 'ybhF6zUDQyvVc8IzvATgmrASRCIfkFJD+ZU+GvuSX/v7Wso5H+/BBaCq4t8m6m72y2S4k9lU8N1ESuYtc+yP1g=='
+
+  client_id: aAaDfbEHkWsXxhbcqWMjPMsC3r6hmEnoUg+3LvxYRQBDP6Y3t3Hbp1EU
+  client_secret: ybhF6zUDQyvVc8IzvATgmrASRCIfkFJD+ZU+GvuSX/v7Wso5H+/BBaCq4t8m6m72y2S4k9lU8N1ESuYtc+yP1g==

@@ -1,0 +1,4 @@
+- text: 'SHIPPING_API_TOKEN=shippo_test_9e73f0edcd760ba461c82300be593daab755595b'
+  apikey: shippo_test_9e73f0edcd760ba461c82300be593daab755595b
+- text: 'SHIPPO_API_TOKEN=shippo_live_d2892e09566bb71eec24ccc1bf0f9f9d9e208f39'
+  apikey: shippo_live_d2892e09566bb71eec24ccc1bf0f9f9d9e208f39

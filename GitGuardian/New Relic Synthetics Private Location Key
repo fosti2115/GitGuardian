@@ -1,0 +1,9 @@
+- text: |
+    "# key is supposed to be secret
+    value=NRSP-wv74182fb31cebaa684df29fc0133e17b10"
+  apikey: NRSP-wv74182fb31cebaa684df29fc0133e17b10
+
+- text: |
+    "Newrelic asked me to keep key secret
+    value=NRSP-wv74182fb31cebaa684df29fc0133e17b10"
+  apikey: NRSP-wv74182fb31cebaa684df29fc0133e17b10

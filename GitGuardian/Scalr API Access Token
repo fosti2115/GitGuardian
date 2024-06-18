@@ -1,0 +1,11 @@
+- text: >
+    SCALR_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGpuNmd1djc3c2tkcm8ifQ.UCOGC7cH4iQFN3xdI5rfj6lgqAt0JEmFT2Qm1yuZokE"
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGpuNmd1djc3c2tkcm8ifQ.UCOGC7cH4iQFN3xdI5rfj6lgqAt0JEmFT2Qm1yuZokE
+
+- text: |
+    http.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGpuN2JzdDNqYmZ2bTkifQ.VBtM1Y-G10VtO4aqMUYFnZElymuQPL6w4CfiCd2olkA");
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGpuN2JzdDNqYmZ2bTkifQ.VBtM1Y-G10VtO4aqMUYFnZElymuQPL6w4CfiCd2olkA
+
+- text: |
+    http.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGswMGJtb2tlc2dqbDIifQ.UTmiVKBV2amlbzoCQjQoz9h6SrDE6UbBHF8CF1gZKFs");
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvNGswMGJtb2tlc2dqbDIifQ.UTmiVKBV2amlbzoCQjQoz9h6SrDE6UbBHF8CF1gZKFs

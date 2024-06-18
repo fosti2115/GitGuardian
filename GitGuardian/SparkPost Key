@@ -1,0 +1,7 @@
+- text: |
+    sparkpost Bearer e708ba56e1517a99f6b5fb07349476efa45edc46
+    e.com/v4/account
+  apikey: e708ba56e1517a99f6b5fb07349476efa45edc46
+- text: sparkpost Bearer e708ba56e1517a99f6b5fb07349476efa45edc46 e.com/v4/account
+
+  apikey: e708ba56e1517a99f6b5fb07349476efa45edc46

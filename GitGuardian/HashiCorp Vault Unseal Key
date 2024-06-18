@@ -1,0 +1,11 @@
+- text: |
+    VAULT_UNSEAL_KEY_3="C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI"
+  apikey: C3fk5Q0ANMFlbjQk4E0MKD8xRdNW0YbLA/0pfMSWEouI
+
+- text: |
+    UNSEAL_KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+  apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+
+- text: |
+    UNSEAL KEY: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG
+  apikey: BoK4FvGkefnzweuiciDcfrxYco43/45HgtrhtMSWZzOG

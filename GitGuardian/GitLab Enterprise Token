@@ -1,0 +1,13 @@
+- text: |
+    git+https://developer:C4FSHpor42bkSumYEZuD@gitlab.secrets.tech/modules/squalize-auto.git
+
+  apikey: C4FSHpor42bkSumYEZuD
+  host: gitlab.secrets.tech
+
+- text: |
+    pat: C4FSHpor42bkSu_YEZu-
+    branch_id: 1548452
+    server_url: gitlab.guardian.com
+
+  apikey: C4FSHpor42bkSu_YEZu-
+  host: gitlab.guardian.com

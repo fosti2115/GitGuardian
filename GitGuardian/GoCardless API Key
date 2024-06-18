@@ -1,0 +1,6 @@
+- text: |
+    GOCARDLESS_CREDENTIALS = {
+      'access_token':  'live_Lw1tDIKwxVc1PpGnVsK2puGEuGh-A0d7Sbx-FAKE',
+      'webhook_secret': 'YourSecretHere'
+    }
+  token: live_Lw1tDIKwxVc1PpGnVsK2puGEuGh-A0d7Sbx-FAKE

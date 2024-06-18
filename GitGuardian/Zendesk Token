@@ -1,0 +1,33 @@
+- text: |
+    uri=https://mysuperdomain.zendesk.com
+    key=ubVBohcplaG55iiRCL3y91Wc1fOWUTX9n7oEjiGS
+    user=someone@my-awesome-company.com
+
+  subdomain: mysuperdomain
+  client_id: someone@my-awesome-company.com
+  client_secret: ubVBohcplaG55iiRCL3y91Wc1fOWUTX9n7oEjiGS
+- text: uri=https://mysuperdomain.zendesk.com key=ubVBohcplaG55iiRCL3y91Wc1fOWUTX9n7oEjiGS user=someone@my-awesome-company.com
+
+  subdomain: mysuperdomain
+  client_id: someone@my-awesome-company.com
+  client_secret: ubVBohcplaG55iiRCL3y91Wc1fOWUTX9n7oEjiGS
+
+- text: |
+    const ZENDESK_USER = 'someone@mysupersubdomain.com'
+    const ZENDESK_API_TOKEN = 'bvwDavE1oEhomexv8vUqGwsWxOmEedV6FlKmTZvb'
+    const ZENDESK_SUBDOMAIN = 'mysupersubdomain'
+  client_id: someone@mysupersubdomain.com
+  client_secret: bvwDavE1oEhomexv8vUqGwsWxOmEedV6FlKmTZvb
+  subdomain: mysupersubdomain
+- text: |
+    env('ZENDESK_USER', 'bscm@yay.awesome')
+    env('ZENDESK_TOKEN','4CrWCZYrwAaS0Ie241y2ONMuQGFty9p5XUchHghv'),
+    env('ZENDESK_SUBDOMAIN', 'anotherone')
+  subdomain: anotherone
+  client_id: bscm@yay.awesome
+  client_secret: 4CrWCZYrwAaS0Ie241y2ONMuQGFty9p5XUchHghv
+- text: const ZENDESK_USER = 'someone@mysupersubdomain.com' const ZENDESK_API_TOKEN = 'bvwDavE1oEhomexv8vUqGwsWxOmEedV6FlKmTZvb' const ZENDESK_SUBDOMAIN = 'mysupersubdomain'
+
+  client_id: someone@mysupersubdomain.com
+  client_secret: bvwDavE1oEhomexv8vUqGwsWxOmEedV6FlKmTZvb
+  subdomain: mysupersubdomain

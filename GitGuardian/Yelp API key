@@ -1,0 +1,12 @@
+- text: "const yelpAPIkey = 'X8wZGnceJaXEt5FNygcwFtW09TxOiXTjT-amATwo5l9nEqf9jd5OSbT0Hl8Qa75y-sGSfBKwuEjwi2Y5uGvK4XJO7A2ALKJrY4i1GyKNUEBG4rPUdFrAHy3IBuHsXlYx';"
+  apikey: X8wZGnceJaXEt5FNygcwFtW09TxOiXTjT-amATwo5l9nEqf9jd5OSbT0Hl8Qa75y-sGSfBKwuEjwi2Y5uGvK4XJO7A2ALKJrY4i1GyKNUEBG4rPUdFrAHy3IBuHsXlYx
+
+- text: |
+    const val BASE_URL: String = "https://api.yelp.com/"
+    const val AUTH = "Bearer 2og21nYKGeRWEzs_9RId4KEAxhT3_4O9kjgKH0K0BVOjaZv8TLEZIjeXYzs5Y1SONGlRlhlmyJEdzPeePvC4HIE3LM6LsuhyfgdnUL9MXxKUfg3mHEztgTV9MCWyZYYx"
+  apikey: 2og21nYKGeRWEzs_9RId4KEAxhT3_4O9kjgKH0K0BVOjaZv8TLEZIjeXYzs5Y1SONGlRlhlmyJEdzPeePvC4HIE3LM6LsuhyfgdnUL9MXxKUfg3mHEztgTV9MCWyZYYx
+
+- text: |
+    API_KEY = wiuck20l8j-oWwCd9r53FqpN6ELB7K03zGw-ccUQR7uLHc9NaWubovOMdGdyFqIGGM4aVK6nxQ1DreDZn_qBYU4jky_5kQRVkiIDPSheCPggY3WzyRzi27kxoOpoYAYx
+    url= https://api.yelp.com/v3/businesses/search
+  apikey: wiuck20l8j-oWwCd9r53FqpN6ELB7K03zGw-ccUQR7uLHc9NaWubovOMdGdyFqIGGM4aVK6nxQ1DreDZn_qBYU4jky_5kQRVkiIDPSheCPggY3WzyRzi27kxoOpoYAYx

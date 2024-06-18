@@ -1,0 +1,26 @@
+- text: |
+    "SmtpCredentials": {
+    "Username": "AKIA2U3XFZXY5Y5K4YCG",
+    "Password": "BEFlmwBBXP8fjfWBq1Rtc8JuJUVw9Go3nIC/uwchu/V4",
+  client_id: AKIA2U3XFZXY5Y5K4YCG
+  client_secret: BEFlmwBBXP8fjfWBq1Rtc8JuJUVw9Go3nIC/uwchu/V4
+
+- text: |
+    SMTP_USER=AKIA2EKLCMMJCE6KTO42
+    SMTP_PASSWORD=BAj1i65sESqoX71jt/mN4nMyPMCfxY1CPWTvg9V9pHo5
+    SMTP_SENDER=no-reply@example.com
+  client_id: AKIA2EKLCMMJCE6KTO42
+  client_secret: BAj1i65sESqoX71jt/mN4nMyPMCfxY1CPWTvg9V9pHo5
+
+- text: |
+    +IAM User Name,Smtp Username,Smtp Password
+    +"ses-smtp-user.rsin",AKIA2QE4MQAW3TLKCZ7H,BAHD0HS9hMvbbalGT/S1bb2AIF6sRtstgLS8jw32+Xuu
+  client_id: AKIA2QE4MQAW3TLKCZ7H
+  client_secret: BAHD0HS9hMvbbalGT/S1bb2AIF6sRtstgLS8jw32+Xuu
+
+- text: |
+    +  <smtpAuthUsername>AKIA4ZGGVLAKOCUBSDDQ</smtpAuthUsername>
+    +  <smtpAuthPassword>BE9eHyEHbdCkf65pBYDB/8Tz8NHxtIrk96vmNRfNJTiC</smtpAuthPassword>
+    +  <smtpHost>email-smtp.eu-east-1.amazonaws.com</smtpHost>
+  client_id: AKIA4ZGGVLAKOCUBSDDQ
+  client_secret: BE9eHyEHbdCkf65pBYDB/8Tz8NHxtIrk96vmNRfNJTiC

@@ -1,0 +1,29 @@
+- text: |
+    ZOOM_AUTH_ID=Tv5sLk45Qc2W3DVSw41ZzQ
+    ZOOM_AUTH_SECRET=9NeGUzYkSjRupIF5pt93m2D1w17fOjI8
+  client_id: Tv5sLk45Qc2W3DVSw41ZzQ
+  client_secret: 9NeGUzYkSjRupIF5pt93m2D1w17fOjI8
+
+- text: |
+    ZOOM_AUTH_CLIENT=TvXsLkUVQcHW3DVSwIKZzQ
+    ZOOM_AUTH_SECRET=9NeGUzYkSjRupIF5pt93m2D1w17fOjI8
+  client_id: TvXsLkUVQcHW3DVSwIKZzQ
+  client_secret: 9NeGUzYkSjRupIF5pt93m2D1w17fOjI8
+
+- text: |
+    {
+      "name": "ZOOM_API_KEY",
+      "description": "apikey for zoom",
+      "value": "BcrAjn6FTQyBtM9Wj7Cmw"
+    },
+    {
+      "name": "ZOOM_API_SECRET",
+      "description": "secret for zoom",
+      "value": "ihPmh3dnXxn3Cd7s3UVZoCDvVEef1f1Q"
+    },
+  client_id: BcrAjn6FTQyBtM9Wj7Cmw
+  client_secret: ihPmh3dnXxn3Cd7s3UVZoCDvVEef1f1Q
+- text: ZOOM_AUTH_ID=Tv5sLk45Qc2W3DVSw41ZzQ ZOOM_AUTH_SECRET=9NeGUzYkSjRupIF5pt93m2D1w17fOjI8
+
+  client_id: Tv5sLk45Qc2W3DVSw41ZzQ
+  client_secret: 9NeGUzYkSjRupIF5pt93m2D1w17fOjI8

@@ -1,0 +1,11 @@
+- text: |
+    sonar.host=https://sonar.qube.io
+    sonar.login=sqp_9a88f6493075e010f74cbdabeb24fe8c68fab6bd
+  host: https://sonar.qube.io
+  apikey: sqp_9a88f6493075e010f74cbdabeb24fe8c68fab6bd
+
+- text: |
+    sonar.host=https://sonar.qube.io:9000
+    sonar.login=squ_9a88f6493075e010f74cbdabeb24fe8c68fab6bc
+  host: https://sonar.qube.io:9000
+  apikey: squ_9a88f6493075e010f74cbdabeb24fe8c68fab6bc

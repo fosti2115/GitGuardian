@@ -1,0 +1,6 @@
+- text: 'import shodan \n\n SHODAN_API_KEY = "dj2bsy53eJcEu6GAYu5PRrVoKHOVTCAl"'
+  apikey: dj2bsy53eJcEu6GAYu5PRrVoKHOVTCAl
+- text: 'SHODAN_API_KEY = "SlFqdFrw7t2Gw2Dbh2wGlOUDg6sAiOBK"'
+  apikey: SlFqdFrw7t2Gw2Dbh2wGlOUDg6sAiOBK
+- text: import shodan \n\n SHODAN_API_KEY = "dj2bsy53eJcEu6GAYu5PRrVoKHOVTCAl"
+  apikey: dj2bsy53eJcEu6GAYu5PRrVoKHOVTCAl

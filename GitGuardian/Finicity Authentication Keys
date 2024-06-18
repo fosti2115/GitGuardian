@@ -1,0 +1,22 @@
+Finicity.prototype.token = function(){
+    // console.log('>>>>>>>>>>>>.>>>>>>>.>>>>>>>>');
+    var options=
+    {
+    url: 'https://api.finicity.com/aggregation/v2/partners/authentication', //URL to hit
+    //qs: {from: 'blog example', time: +new Date()}, //Query string data
+    //simple:false,
+    method: 'POST',
+    headers: {
+    'Finicity-App-Key' : '4d003c112e66263b9dec7a3dbfa9b5f5',
+    'content-type': 'application/json',
+    'Accept': 'application/json'
+    },
+    json : {
+    partnerId: '2440890153215',
+    partnerSecret: 'geruj4LFyu0NBeBOnQvo'
+    }
+    };
+
+  client_id: '2440890153215'
+  client_secret: geruj4LFyu0NBeBOnQvo
+}

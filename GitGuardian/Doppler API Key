@@ -1,0 +1,12 @@
+- text: |
+    curl -H 'api-key: dp.pt.zkxYYBKO2oztRQj72SOAA13PmVyTwI7AboM8bknx' 'https://api.doppler.com/v3/workplace'
+  apikey: dp.pt.zkxYYBKO2oztRQj72SOAA13PmVyTwI7AboM8bknx
+- text: |
+    "DOPPLER_SERVICE_TOKEN": { {input: "dp.st.dev.5iSgsylLUh1V8gWGbwbWbO8SHSxs3wkdkYAYE3kI"}, },
+  apikey: dp.st.dev.5iSgsylLUh1V8gWGbwbWbO8SHSxs3wkdkYAYE3kI
+- text: |
+    cli_token: dp.ct.Hz53zCklAAldpZywPRaXPaaYlABB1HOrKgtvyhGL
+  apikey: dp.ct.Hz53zCklAAldpZywPRaXPaaYlABB1HOrKgtvyhGL
+- text: |
+    Token SCIM := dp.scim.IcgO4od2ONhDCys8tELOouUK9RSDCevePjks0yom
+  apikey: dp.scim.IcgO4od2ONhDCys8tELOouUK9RSDCevePjks0yom

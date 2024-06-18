@@ -1,0 +1,6 @@
+- text: >
+    README_KEY="rdme_xn8s9h606d8fd1fc6aef1d552ef4ed057114f9e1a9ef8fcc69b80b255a4a8120273xxx"
+  apikey: rdme_xn8s9h606d8fd1fc6aef1d552ef4ed057114f9e1a9ef8fcc69b80b255a4a8120273xxx
+- text: |
+    http.setRequestProperty("Authorization", "Basic rdme_xn8s9h40869bd282cdf7524c8293189ffe33baaa36c420c32664072df1629a83xxxa97");
+  apikey: rdme_xn8s9h40869bd282cdf7524c8293189ffe33baaa36c420c32664072df1629a83xxxa97

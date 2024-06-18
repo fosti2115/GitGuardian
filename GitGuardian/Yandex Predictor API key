@@ -1,0 +1,6 @@
+- text: |
+    public static final String API_KEY = "pdct.1.1.20218925T124723Z.07193b9c567c0c90.ebba3042fcf1acfc4d682db12c01a5289f9769c0";
+  apikey: pdct.1.1.20218925T124723Z.07193b9c567c0c90.ebba3042fcf1acfc4d682db12c01a5289f9769c0
+- text: |
+    url = https.request('https://example.com/api/v1.5/tr.json/predict?key=pdct.1.1.20301550T124723Z.07193b9c567c0c90.ebba3042fcf1acfc4d682db12c01a5289f9769c0&format=plain&lang='..URL.escape(matches[2])..'&text='..URL.escape(matches[3]))
+  apikey: pdct.1.1.20301550T124723Z.07193b9c567c0c90.ebba3042fcf1acfc4d682db12c01a5289f9769c0

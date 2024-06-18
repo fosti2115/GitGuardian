@@ -1,0 +1,17 @@
+- text: |
+    SHOPIFY CONTEXT
+    api_key: "a9df38e3152855a450bd01c21f7575dc"
+    api_secret: "0d3d50ba0e094bca06a7d1dd18e70afd"
+  client_id: a9df38e3152855a450bd01c21f7575dc
+  client_secret: 0d3d50ba0e094bca06a7d1dd18e70afd
+- text: |
+    shopifyAppKey: "a9df38e3152855a450bd01c21f7575dc"
+    shopifyAppSecret: "0d3d50ba0e094bca06a7d1dd18e70afd"
+  client_id: a9df38e3152855a450bd01c21f7575dc
+  client_secret: 0d3d50ba0e094bca06a7d1dd18e70afd
+
+- text: |
+    shopify_app_key: "b0df78b1179265c560bd50e23b6440ad"
+    shopify_app_secret: "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"
+  client_id: b0df78b1179265c560bd50e23b6440ad
+  client_secret: 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

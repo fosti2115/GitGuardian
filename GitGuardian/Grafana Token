@@ -1,0 +1,8 @@
+- text: |
+    // Add grafana_TOKEN to your environment variables
+    string token = "eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk"
+  apikey: eyJrIjoiK0tTcps1UlY6RnFKDFFVaEFrNFJRaE2XamIrPrZYbk
+
+
+- text: glc_eyJvIjoiMjY2MTczIiwibI6Im1ldGEtbW9uaxRvcmluZy10ZXN0IiwiayI6IjAxdKeH7KTUvWuIqCfHlMKE9EhJcZH2to
+  apikey: glc_eyJvIjoiMjY2MTczIiwibI6Im1ldGEtbW9uaxRvcmluZy10ZXN0IiwiayI6IjAxdKeH7KTUvWuIqCfHlMKE9EhJcZH2to

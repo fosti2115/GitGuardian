@@ -1,0 +1,14 @@
+- text: |
+    { "Huawei": { "AppMainActivity": "com.hl.hlapp.MainActivity", "ClientId": "100809947", "ClientSecret": "8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5" }
+  client_id: '100809947'
+  client_secret: '8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5'
+- text: |
+    Log.e("huaweipush");
+    APP ID: 100809947;
+    APP SECRET: 8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5;
+  client_id: '100809947'
+  client_secret: '8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5'
+- text: |
+    { "Huawei": { "AppMainActivity": "com.hl.hlapp.MainActivity", "ClientId": "100809947", "ClientSecret": "8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5" }
+  client_id: '100809947'
+  client_secret: '8b94020cf0aed099bc88c0e57b613fdd55cdcec2590b55fa5693a9d672cad2d5'

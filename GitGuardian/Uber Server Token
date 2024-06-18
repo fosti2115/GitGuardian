@@ -1,0 +1,8 @@
+- text: 'config.uber.server_token = "Bxna7WFIVdjbi5oaaQHIav-X1X27PWyHUAaWoOsV"'
+  apikey: Bxna7WFIVdjbi5oaaQHIav-X1X27PWyHUAaWoOsV
+- text: "uber,  server_token: 'OBKbz3z1bPk1NQ77-sY_4W_xXljyGE3ypnJ727W_',"
+  apikey: OBKbz3z1bPk1NQ77-sY_4W_xXljyGE3ypnJ727W_
+- text: 'uber,  server_token: OBKbz3z1bPk1NQ77-sY_4W_xXljyGE3ypnJ727W_'
+  apikey: OBKbz3z1bPk1NQ77-sY_4W_xXljyGE3ypnJ727W_
+- text: config.uber.server_token = "Bxna7WFIVdjbi5oaaQHIav-X1X27PWyHUAaWoOsV"
+  apikey: Bxna7WFIVdjbi5oaaQHIav-X1X27PWyHUAaWoOsV

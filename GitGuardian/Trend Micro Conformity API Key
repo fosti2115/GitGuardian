@@ -1,0 +1,5 @@
+- text: |
+    CONFORMITY_URL = "https://ap-south-1-api.cloudconformity.com/v1/accounts"
+    CONFORMITY_KEY = "3YvVUE2c3GqVcaaTaetfnG2CYyou323xTGy5TxaVYYcvRQyXEFdu3Sxoo237Y4Kp"
+
+  apikey: 3YvVUE2c3GqVcaaTaetfnG2CYyou323xTGy5TxaVYYcvRQyXEFdu3Sxoo237Y4Kp

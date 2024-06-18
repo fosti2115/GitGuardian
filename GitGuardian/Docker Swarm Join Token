@@ -1,0 +1,16 @@
+- text: |
+    docker swarm join --token SWMTKN-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-4xr7lve30qn7krdtpmusgddkq
+  apikey: SWMTKN-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-4xr7lve30qn7krdtpmusgddkq
+
+- text: |
+    docker swarm join --token SWMTKN-2-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-4xr7lve30qn7krdtpmusgddkq
+  apikey: SWMTKN-2-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-4xr7lve30qn7krdtpmusgddkq
+
+- text: |
+    - name: Add nodes
+      community.docker.docker_swarm:
+        state: join
+        advertise_addr: 192.168.1.2
+        join_token: SWMTKN-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-aia4nyrqci6wliru6um99kgb2
+        remote_addrs: [ '192.168.1.1:2377' ]
+  apikey: SWMTKN-1-568ya21bqrpkwl5di47zcs2v5039p7rie6cbs586ni3i12t3r3-aia4nyrqci6wliru6um99kgb2

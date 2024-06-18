@@ -1,0 +1,7 @@
+- text: |
+    spring.cloud.vault.token=hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
+  apikey: hvs.JGbZZaCkOSgsZ56uhGlTK2zyC1j2mwhy0VLp4
+
+- text: |
+    VAULT_CLIENT_TOKEN="s.Z4bTMtngfLeQ18AqVoBBkUAOD1"
+  apikey: s.Z4bTMtngfLeQ18AqVoBBkUAOD1

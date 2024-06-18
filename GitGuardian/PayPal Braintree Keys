@@ -1,0 +1,7 @@
+- text: |
+    "braintree": {
+      "publicKey": "gz69wf3m5zvydp4x",
+      "privateKey": "84a57105677aef32ec2c2341a028242b"
+    }
+  client_id: 'gz69wf3m5zvydp4x'
+  client_secret: '84a57105677aef32ec2c2341a028242b'

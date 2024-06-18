@@ -1,0 +1,16 @@
+- text: |
+    {
+      "baseuri": "https://api.bing.microsoft.com/v7.0/search",
+      "headers": { "Ocp-Apim-Subscription-Key": "bf7ccc0207494d5ea601f10af51ecfff" }
+    }
+  apikey: 'bf7ccc0207494d5ea601f10af51ecfff'
+- text: |
+    let cfg = {
+      url: `https://api.bing.microsoft.com/v7.0/Suggestions?q=` + value,
+      headers: { "Ocp-Apim-Subscription-Key": "775216a0c72d44b790058a3e62f337ef" }
+    }
+  apikey: '775216a0c72d44b790058a3e62f337ef'
+- text: |
+    $GLOBALS["subscription_key"] = "65dae5acc8508967f4f09968643e29cf";
+    $request = new Http_Request2('https://api.bing.microsoft.com/v7.0/search');
+  apikey: '65dae5acc8508967f4f09968643e29cf'

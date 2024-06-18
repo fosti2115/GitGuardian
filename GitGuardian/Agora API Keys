@@ -1,0 +1,24 @@
+- text: |
+    @@ -38,10 +38,10 @@ AWS_SECRET_ACCESS_KEY=
+     AWS_DEFAULT_REGION=us-east-1
+     AWS_BUCKET=
+
+    -AGORA_APP_ID=
+    -AGORA_APP_CERTIFICATE=
+    +AGORA_APP_ID=67a7cd65c4567f5fda1594610b9cdead
+    +AGORA_APP_CERTIFICATE=286f2fe2ca0849acac73e3d3dbf7dead
+
+  client_id: 67a7cd65c4567f5fda1594610b9cdead
+  client_secret: 286f2fe2ca0849acac73e3d3dbf7dead
+- text: |
+    @@ -38,10 +38,10 @@ AWS_SECRET_ACCESS_KEY=
+     AWS_DEFAULT_REGION=us-east-1
+     AWS_BUCKET=
+
+    -AGORA_APP_ID=
+    -AGORA_APP_SECRET=
+    +AGORA_APP_ID=beefcd65c4329f5fad1594610b9cdead
+    +AGORA_APP_SECRET=016f2fe2ca0849a7cac3ed33dbe7dead
+
+  client_id: beefcd65c4329f5fad1594610b9cdead
+  client_secret: 016f2fe2ca0849a7cac3ed33dbe7dead

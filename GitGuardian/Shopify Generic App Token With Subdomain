@@ -1,0 +1,5 @@
+- text: |
+    $shopurl='shirts.myshopify.com';
+    $token='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';
+  subdomain: shirts
+  token: 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

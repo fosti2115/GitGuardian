@@ -1,0 +1,15 @@
+- text: |
+    forest_auth_secret: BIg4nqf9LBT88cAe0SzakQ
+  apikey: 'BIg4nqf9LBT88cAe0SzakQ'
+- text: |
+    FOREST_AUTH_SECRET=BtEsrpitMM5NtSUYMEflR7vDKdTmEfLg
+  apikey: 'BtEsrpitMM5NtSUYMEflR7vDKdTmEfLg'
+- text: |
+    FOREST_AUTH_SECRET=c8363f22783c644071f7bde76df69734b95abf514045fc59
+  apikey: 'c8363f22783c644071f7bde76df69734b95abf514045fc59'
+- text: |
+    FOREST_AUTH_SECRET=2ab25b921c4bf35bb43b1f5b7aaa04e27a3142ada836fcd2323ea148ad953
+  apikey: '2ab25b921c4bf35bb43b1f5b7aaa04e27a3142ada836fcd2323ea148ad953'
+- text: |
+    forest_auth_secret: da4c26a602bc9f3aac71abd18237f0c4fe99eb28ef22ef5ccba0efdf0d5a1c1940624657bf234ab55993045a348fc0f7
+  apikey: 'da4c26a602bc9f3aac71abd18237f0c4fe99eb28ef22ef5ccba0efdf0d5a1c1940624657bf234ab55993045a348fc0f7'

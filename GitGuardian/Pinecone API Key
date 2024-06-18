@@ -1,0 +1,11 @@
+- text: |
+    PINECONE_API_KEY = '8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7'
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7
+
+- text: |
+    pinecone.api_key = '8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7'
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7
+
+- text: |
+    os.environ('PINECONE_API_KEY','8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7')
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7

@@ -1,0 +1,14 @@
+- text: |
+    curl -X POST \
+    -H "Content-Type: application/json" \
+    -H "Authorization: lin_api_3thmgjor322griohzovh343LU7zvrdvdgT54T45G" \
+    --data '{ "query": "{ issues { nodes { id title } } }" }' \
+    https://api.linear.app/graphql
+  apikey: 'lin_api_3thmgjor322griohzovh343LU7zvrdvdgT54T45G'
+- text: |
+    curl -X POST \
+    -H "Content-Type: application/json" \
+    -H "Authorization: lin_oauth_8d4b9bd539dcd265935e2d01547e407971add2abb1fba737e202e62f10d8fb42" \
+    --data '{ "query": "{ issues { nodes { id title } } }" }' \
+    https://api.linear.app/graphql
+  apikey: 'lin_oauth_8d4b9bd539dcd265935e2d01547e407971add2abb1fba737e202e62f10d8fb42'

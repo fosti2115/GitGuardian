@@ -1,0 +1,6 @@
+- text: url = "https://api.fullcontact.com/v3/person.enrich"\n api_key ="vfN3c4FF1bBKqx7qk7fF2nVGGz8klArd"
+  apikey: vfN3c4FF1bBKqx7qk7fF2nVGGz8klArd
+- text: $base = "X-FullContact-APIKey:"; \n $key = "4rtV72U0zxmuj5grCkNgz24G4WgSeghj";
+  apikey: 4rtV72U0zxmuj5grCkNgz24G4WgSeghj
+- text: url = "https://api.fullcontact.com/v3/person.enrich"\n api_key ="vfN3c4FF1bBKqx7qk7fF2nVGGz8klArd"
+  apikey: vfN3c4FF1bBKqx7qk7fF2nVGGz8klArd

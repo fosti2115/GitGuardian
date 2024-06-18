@@ -1,0 +1,8 @@
+- text: |
+    export SURGE_TOKEN=f9c2fcb6c5374e21aa2cf04b80066a7f
+    export DEPLOY_DOMAIN=https://pr-${TRAVIS_PULL_REQUEST}-testdomain.surge.sh
+    surge --project ./build --domain $DEPLOY_DOMAIN;
+  apikey: f9c2fcb6c5374e21aa2cf04b80066a7f
+- text: export SURGE_TOKEN=f9c2fcb6c5374e21aa2cf04b80066a7f export DEPLOY_DOMAIN=https://pr-${TRAVIS_PULL_REQUEST}-testdomain.surge.sh surge --project ./build --domain $DEPLOY_DOMAIN;
+
+  apikey: f9c2fcb6c5374e21aa2cf04b80066a7f

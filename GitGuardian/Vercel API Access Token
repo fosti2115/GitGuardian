@@ -1,0 +1,17 @@
+- text: |
+
+    +PROJECT_ID_VERCEL=prj_xgzT8u24xlAds2Bki73KvjGyy6W0
+    +AUTH_BEARER_TOKEN=lzKIXkSPwRa9c0wGlo0U6kdf
+
+  token: lzKIXkSPwRa9c0wGlo0U6kdf
+
+- text: |
+    -TURBO_TOKEN: 8y4LyJt4VYHfSJpiUELU34Bp
+    +TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+  token: 8y4LyJt4VYHfSJpiUELU34Bp
+
+- text: |
+    +vercel-token: Ae8SkAZsUZ6xDT2dcdG2eP1e # Required
+
+  token: Ae8SkAZsUZ6xDT2dcdG2eP1e

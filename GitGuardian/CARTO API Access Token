@@ -1,0 +1,7 @@
+- text: >
+    CARTO_KEY="eyJhbGciOiJIUzI1NiJ9.eyJhIjoiYWNfMTM1MnZoMyIsImp0aSI6ImJjOTE1Yzg4In0.M1lj4Yf-d6_WB2MsKHL8TC7traEy4oJQZkFUXFjfYaY"
+  token: eyJhbGciOiJIUzI1NiJ9.eyJhIjoiYWNfMTM1MnZoMyIsImp0aSI6ImJjOTE1Yzg4In0.M1lj4Yf-d6_WB2MsKHL8TC7traEy4oJQZkFUXFjfYaY
+
+- text: |
+    http.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhIjoiYWNfMTM1MnZoMyIsImp0aSI6IjE0MjEwMTUxIn0.Vk9QcUxrIj15X6LuOGop2SkFBoTSH1tE1I_4-La3Jfc");
+  token: eyJhbGciOiJIUzI1NiJ9.eyJhIjoiYWNfMTM1MnZoMyIsImp0aSI6IjE0MjEwMTUxIn0.Vk9QcUxrIj15X6LuOGop2SkFBoTSH1tE1I_4-La3Jfc

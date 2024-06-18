@@ -1,0 +1,5 @@
+- text: |
+    // public static final String TRELLO_API_KEY="4e3541470c36d22fd0bb79aa409fa4f3";
+       public static final String TRELLO_API_SECRET="e48a797ab652fda1d71db5aab1dd5f07531b9a974169c270d2d8313155cb14fa";
+  client_id: '4e3541470c36d22fd0bb79aa409fa4f3'
+  client_secret: 'e48a797ab652fda1d71db5aab1dd5f07531b9a974169c270d2d8313155cb14fa'

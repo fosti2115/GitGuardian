@@ -1,0 +1,15 @@
+- text: 127038aa5eb2406d6a8cdf2c3de55341
+  secret_key: 127038aa5eb2406d6a8cdf2c3de55341
+
+- text: 127038aa5eb2406d6a8cdf2c3de55341
+  secret_key: 127038aa5eb2406d6a8cdf2c3de55341
+  # Skip this one because we can't detect it with ggshield
+  skip_sample_secrets: true
+
+- text: 243438AE2EF6007F6A8BAB5D8BB54326
+  secret_key: 243438AE2EF6007F6A8BAB5D8BB54326
+  # Skip this one because we can't detect it with ggshield
+  skip_sample_secrets: true
+
+- text: 243438AE2EF6007F6A8BAB5D8BB54326
+  secret_key: 243438AE2EF6007F6A8BAB5D8BB54326

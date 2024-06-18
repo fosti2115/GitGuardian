@@ -1,0 +1,48 @@
+- text: |
+    git+https://gitlab+deploy-token-4:jaiveyYredWX3wixerW-@git.alpha-beta.fr/some/project
+
+  apikey: jaiveyYredWX3wixerW-
+
+- text: |
+    +gitlab_config
+    +set _SCRIPTDIR=%CD%
+    +popd
+    +
+    +set _TOKEN=u_zx0envC23WEwvCzEKp
+
+  apikey: u_zx0envC23WEwvCzEKp
+
+- text: |
+    GitLab Runner
+    +  runnerRegistrationToken: "tQgCbx5UPy_ByM2FczhU"
+    +  # resources:
+    +  #   limits:
+    +  #     memory:
+
+  apikey: tQgCbx5UPy_ByM2FczhU
+
+- text: |
+    begin {
+       $ErrorActionPreference = "Stop"
+       $env:GITLAB_TOKEN = "LkaPhTfdsPhdVZaHUGhG"
+
+  apikey: LkaPhTfdsPhdVZaHUGhG
+
+- text: |
+    'my gitlab token is set below.
+    I want something that is not handled by the AssignmentRegexMatcher not to interfere
+    with the gitlab_token detector
+    "qZ3do4vK3MiSHbE29vAQ"'
+  apikey: qZ3do4vK3MiSHbE29vAQ
+- text: |
+    'my gitlab token is set below.
+    I want something that is not handled by the AssignmentRegexMatcher not to interfere
+    with the gitlab_token detector
+    "qZ3do4vK3MiSHbE29vAQ"'
+
+  apikey: qZ3do4vK3MiSHbE29vAQ
+
+- text: |
+    The prefixed gitlab personal token
+    glpat-SNixgZ5e6NWeo1Wwga11
+  apikey: glpat-SNixgZ5e6NWeo1Wwga11

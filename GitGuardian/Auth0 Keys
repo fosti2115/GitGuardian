@@ -1,0 +1,16 @@
+- text: |
+    i=STvPYZ1pCeJp2tyVdDDgm9DySu1VIPTc
+    s=_Foy7l7Z8DdZ09YfR95JJWaabWVFp5XAEDZbTlHqTDMtMXwlrnl21Z5ARqYJ3XSr
+    d=gg-test.auth0.com
+  domain: gg-test.auth0.com
+  client_id: STvPYZ1pCeJp2tyVdDDgm9DySu1VIPTc
+  client_secret: _Foy7l7Z8DdZ09YfR95JJWaabWVFp5XAEDZbTlHqTDMtMXwlrnl21Z5ARqYJ3XSr
+- text: |
+    ```
+    i=STvPYZ1pCeJp2tyVdDDgm9DySu1VIPTc
+    s=_Foy7l7Z8DdZ09YfR95JJWaabWVFp5XAEDZbTlHqTDMtMXwlrnl21Z5ARqYJ3XSr
+    d=gg-test.auth0.com
+    ```
+  domain: gg-test.auth0.com
+  client_id: STvPYZ1pCeJp2tyVdDDgm9DySu1VIPTc
+  client_secret: _Foy7l7Z8DdZ09YfR95JJWaabWVFp5XAEDZbTlHqTDMtMXwlrnl21Z5ARqYJ3XSr

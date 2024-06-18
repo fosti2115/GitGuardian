@@ -1,0 +1,18 @@
+- text: "https://api.newrelic.com,  headers = {'X-Api-Key': 'fba3858c9eeedb92727d2166fed5a5489817fb576ebee0a'}"
+  apikey: fba3858c9eeedb92727d2166fed5a5489817fb576ebee0a
+- text: "new_relic_headers = {'X-Api-Key': 'cABDC0e5bCfeac108F8F4F0f41bdfF9755AFC1bB087ef09'}"
+  apikey: cABDC0e5bCfeac108F8F4F0f41bdfF9755AFC1bB087ef09
+- text: "#new relic key = 'BcEcC0AaEEE553D97dEcc30d550a10EEaaAEa96EbF4aBF6'"
+  apikey: BcEcC0AaEEE553D97dEcc30d550a10EEaaAEa96EbF4aBF6
+- text: "new-relic key 'Cb79a7C90CCdD4Ac3EDF6Ba4FFed020aC1FbC2CA65B2D9e'}"
+  apikey: Cb79a7C90CCdD4Ac3EDF6Ba4FFed020aC1FbC2CA65B2D9e
+- text: "https://api.newrelic.com,  headers = {'X-Api-Key': 'fba3858c9eeedb92727d2166fed5a5489817fb576ebee0a'}"
+  apikey: fba3858c9eeedb92727d2166fed5a5489817fb576ebee0a
+
+- text: |
+    "APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
+  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9
+
+- text: |
+    "new relic APIKEY: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9"
+  apikey: NRRA-6baa13a5c9e652b3bdfeb7c7cde9056c381a190de9

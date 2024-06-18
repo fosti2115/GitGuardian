@@ -1,0 +1,6 @@
+- text: "https://api.hubapi.com/content/api/v2/blog-posts?hapikey=91d91373-8e94-4872-893c-e7d080224a56'"
+  apikey: 91d91373-8e94-4872-893c-e7d080224a56
+- text: 'HUBSPOT_ADDRESS = "https://hubapi.com/leads/v1/"\nAPI_KEY = "91d91373-8b94-4872-893c-e7a080224a65"'
+  apikey: 91d91373-8b94-4872-893c-e7a080224a65
+- text: https://api.hubapi.com/content/api/v2/blog-posts?hapikey=91d91373-8e94-4872-893c-e7d080224a56'
+  apikey: 91d91373-8e94-4872-893c-e7d080224a56

@@ -1,0 +1,18 @@
+- text: |
+    PINECONE_API_KEY = '8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7'
+    PINECONE_ENVIRONEMENT = 'us-west1-gcp-free'
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7
+  environment: us-west1-gcp-free
+
+- text: |
+    PINECONE_API_KEY = '8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7'
+    PINECONE_ENV = 'us-west1-gcp-free'
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7
+  environment: us-west1-gcp-free
+
+- text: |
+    PINECONE_API_KEY = '8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7'
+    PINECONE_API_KEY = '00000000-0000-0000-0000-000000000000'
+    PINECONE_ENV = 'us-west1-gcp-free'
+  apikey: 8a9568f0-2ab5-49cc-98a7-ddf3a5c1dea7
+  environment: us-west1-gcp-free

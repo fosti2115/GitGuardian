@@ -1,0 +1,6 @@
+- text: |
+    export PACKET_API_TOKEN=aQmhFLFKgfiG9w1z9fbgwcyMCQDc6Zg2 - -If you're not comfortable exporting your API token, you can pass it as a parameter to the module
+  apikey: aQmhFLFKgfiG9w1z9fbgwcyMCQDc6Zg2
+- text: export PACKET_API_TOKEN=aQmhFLFKgfiG9w1z9fbgwcyMCQDc6Zg2 - -If you're not comfortable exporting your API token, you can pass it as a parameter to the module
+
+  apikey: aQmhFLFKgfiG9w1z9fbgwcyMCQDc6Zg2

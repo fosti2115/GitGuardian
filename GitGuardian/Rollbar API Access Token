@@ -1,0 +1,5 @@
+- text: "curl -H 'X-Rollbar-Access-Token: df6ce617465b4980afdecc95ed1b42de' 'https://api.rollbar.com/api/1/projects'"
+  apikey: df6ce617465b4980afdecc95ed1b42de
+
+- text: 'env ROLLBAR_ACCESS_TOKEN="c0a37b9523be431289b38ae89ff2aaaf"'
+  apikey: c0a37b9523be431289b38ae89ff2aaaf

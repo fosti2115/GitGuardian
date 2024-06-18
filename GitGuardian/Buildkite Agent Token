@@ -1,0 +1,12 @@
+- text: |
+    -_Environment variable:_ `BUILDKITE_TIMESTAMP_LINES`
+     ```sh
+     token="45fb61df1332089842b24aede27dd483f716fef98bcd3321e7"
+     name="my-app-%n"
+    -meta-data="ci=true,docker=true"
+    +tags="ci=true,docker=true"
+     git-clean-flags="-fdqx"
+     debug=true
+     ```
+
+  token: 45fb61df1332089842b24aede27dd483f716fef98bcd3321e7

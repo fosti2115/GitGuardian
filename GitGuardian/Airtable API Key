@@ -1,0 +1,9 @@
+- text: |
+    Ya=new h.a({apiKey:"keykxor9WAQEOQDA4"}).base("appfPbxFBbfZpRNdC")
+
+  apikey: keykxor9WAQEOQDA4
+
+- text: |
+    REACT_APP_API_KEY:"keyknav9WAEOQRQE3",REACT_APP_BASE:"appqznDP8EBdFrntE"
+
+  apikey: keyknav9WAEOQRQE3

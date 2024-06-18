@@ -1,0 +1,11 @@
+- text: |
+    // Add Okta_Keys to your environment variables
+    user.oauth.clientId=0oaq5duedN0lmmT143i4
+    user.oauth.clientSecret=3Be9-tDiFMDp6kYdmQDsbUFEVy7K2_wb0lsje2vw
+  client_id: '0oaq5duedN0lmmT143i4'
+  client_secret: '3Be9-tDiFMDp6kYdmQDsbUFEVy7K2_wb0lsje2vw'
+
+- text: |
+    $(app) -i https://dev-123456.oktapreview.com -c 0oaq5duedN0lmmT143i4 -c secret-client=3Be9-tDiFMDp6kYdmQDsbUFEVy7K2_wb0lsje2vw
+  client_id: '0oaq5duedN0lmmT143i4'
+  client_secret: '3Be9-tDiFMDp6kYdmQDsbUFEVy7K2_wb0lsje2vw'

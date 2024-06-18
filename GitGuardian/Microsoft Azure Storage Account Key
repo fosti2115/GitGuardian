@@ -1,0 +1,15 @@
+- text: |
+    (https://portal.azure.com/). +CREATE DATABASE SCOPED CREDENTIAL AzureStorageCredential +WITH IDENTITY = 'PankaTSP',
+    +SECRET = 'g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw=='; + + +-- STEP 3:
+    Create an external data source to specify location and credential for your Azure storage account.
+  apikey: g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw==
+
+- text: |
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=hello;AccountKey=g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw==;EndpointSuffix=core.windows.net"
+  apikey: g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw==
+
+- text: |
+    ENCRYPTED_TOKEN:
+      secure: XN4jRtmGE5Bqg8pPZkqsdazdqkldqc0dqsdqsd5TNJZOPofDMc1QnUsf
+    AZURE_STORAGE_CONNECTION_STRING: DefaultEndpointsProtocol=https;AccountName=hello;AccountKey=g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw==;EndpointSuffix=core.windows.net
+  apikey: g8FQca0QnXcrHvjU5PeMpbEv5sN2uwCPhoHbzcvdv7EF6LHLq/D96Rm4S9XRuKRcvff1xdShvAYElNH3NDZhnw==

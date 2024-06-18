@@ -1,0 +1,83 @@
+- text: |
+    from tweepy.streaming import StreamListener
+
+    consumer_key = 'qgmlPcoo2F3Ws6LWJLmuTgOVa'
+    consumer_secret = 'sME0sSMXOXHO3qG06tEwSyejzvlYlvLzx1ynKRBqGjbuYRIPZa'
+
+  client_id: qgmlPcoo2F3Ws6LWJLmuTgOVa
+  client_secret: sME0sSMXOXHO3qG06tEwSyejzvlYlvLzx1ynKRBqGjbuYRIPZa
+
+- text: |
+    // Your Twitter App Consumer Key
+     private $consumer_key = 'B3khhhiCGZl2tPnNcwBA';
+
+     // Your Twitter App Consumer Secret
+     private $consumer_secret = '5bDnGvuoR62Lv5VtVdZmRASE3n4SpvdnxiT45CXKvH';
+
+  client_id: B3khhhiCGZl2tPnNcwBA
+  client_secret: 5bDnGvuoR62Lv5VtVdZmRASE3n4SpvdnxiT45CXKvH
+
+- text: |
+    // Twitter creds
+    consumer_api_key = '6TKONeTEZTLo9QWcUohTf6rhv'
+    consumer_api_secret = 'LG4y1E2aexUNql425UcQ6ZEvoyHk1ZGKzHkhLofMV7qZhhGuRm'
+
+  client_id: 6TKONeTEZTLo9QWcUohTf6rhv
+  client_secret: LG4y1E2aexUNql425UcQ6ZEvoyHk1ZGKzHkhLofMV7qZhhGuRm
+
+- text: |
+    consumer_key = 'NciwXkL6Mn0Qc40NUCLO0UK5n'
+    consumer_key_secret = 'UVfL5LybAVJmhi8r4rFF7qKLcjfm0Hj8QdCAQSWOeChstJpWnK'
+
+  client_id: NciwXkL6Mn0Qc40NUCLO0UK5n
+  client_secret: UVfL5LybAVJmhi8r4rFF7qKLcjfm0Hj8QdCAQSWOeChstJpWnK
+
+- text: |
+    twitter_consumer_key: PzODTWGMm9WbVipndYPFVlrF3
+    twitter_consumer_secret: k6TUVIzdCEnPYrfEYPeazMmHLOp5bInKft9SRxwO7rUX3bXrs9
+
+  client_id: PzODTWGMm9WbVipndYPFVlrF3
+  client_secret: k6TUVIzdCEnPYrfEYPeazMmHLOp5bInKft9SRxwO7rUX3bXrs9
+
+- text: |
+    SOCIAL_AUTH_TWITTER_KEY = 'Zt4NxBbZuNYON111Wbsgy1RAp'
+    SOCIAL_AUTH_TWITTER_SECRET = 'FPO5PfZLLLLxce55ubI1a5pcFEam9999z7bG8GCa8aXXnmbjgQ'
+
+  client_id: Zt4NxBbZuNYON111Wbsgy1RAp
+  client_secret: FPO5PfZLLLLxce55ubI1a5pcFEam9999z7bG8GCa8aXXnmbjgQ
+
+- text: |
+    var twitter_application_consumer_key = 'GBcpYu4bs6aYyAHskronTMpsu';  // API Key
+    var twitter_application_secret = 'JNUbeTP2iP31qzFdfM4tUDvieSSopxyDRw35CWrfpiQDYwTTXV';  // API Secret
+
+  client_id: GBcpYu4bs6aYyAHskronTMpsu
+  client_secret: JNUbeTP2iP31qzFdfM4tUDvieSSopxyDRw35CWrfpiQDYwTTXV
+
+- text: |
+    "consumer_key = \"k0bMQjP8ChDxhVyT5XyYUJdIE\"\n",
+    "consumer_secret = \"HczZWqoHIDn0Y7aBMAIsN8pHT93quwu2y5g9n5f9R8GxrtoIt4\"\n",
+
+  client_id: k0bMQjP8ChDxhVyT5XyYUJdIE
+  client_secret: HczZWqoHIDn0Y7aBMAIsN8pHT93quwu2y5g9n5f9R8GxrtoIt4
+
+- text: |
+    'consumerKey'       : 'EqjtdUeioUB9a2w9E0AN1jH0v',
+    'consumerSecret'    : 'eravWvAwtyNkwSEeVKU5V9N8bxthyTK8Cf9kO43zdd7tcfErCz',
+
+  client_id: EqjtdUeioUB9a2w9E0AN1jH0v
+  client_secret: eravWvAwtyNkwSEeVKU5V9N8bxthyTK8Cf9kO43zdd7tcfErCz
+
+- text: |
+    #Twitter Production
+    #TWITTER_CONSUMER_KEY = 'BvWr1TT7VdI9bVHORk0A0Z4dV'
+    #TWITTER_CONSUMER_SECRET = 'rfOt4u5m21ktdkq5bFvHkov36og0v9CcI26vjhcJuho6dFus5g'
+
+  client_id: BvWr1TT7VdI9bVHORk0A0Z4dV
+  client_secret: rfOt4u5m21ktdkq5bFvHkov36og0v9CcI26vjhcJuho6dFus5g
+- text: |
+    from tweepy.streaming import StreamListener
+    consumer_key = 'qgmlPcoo2F3Ws6LWJLmuTgOVa' 
+    consumer_secret = 'sME0sSMXOXHO3qG06tEwSyejzvlYlvLzx1ynKRBqGjbuYRIPZa'
+
+  client_id: qgmlPcoo2F3Ws6LWJLmuTgOVa
+  client_secret: sME0sSMXOXHO3qG06tEwSyejzvlYlvLzx1ynKRBqGjbuYRIPZa

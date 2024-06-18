@@ -1,0 +1,7 @@
+- text: confluent
+    +# basic.auth.user.info=06R3WYFUIW1DVO4U:M8m6yxc2AFX8p4IQe8Lf5H+GXmYkGrTSke/B8kCkFqDEk1w62XKDSCCds5RXGVXR
+  client_id: 06R3WYFUIW1DVO4U
+  client_secret: M8m6yxc2AFX8p4IQe8Lf5H+GXmYkGrTSke/B8kCkFqDEk1w62XKDSCCds5RXGVXR
+- text: confluent +# basic.auth.user.info=06R3WYFUIW1DVO4U:M8m6yxc2AFX8p4IQe8Lf5H+GXmYkGrTSke/B8kCkFqDEk1w62XKDSCCds5RXGVXR
+  client_id: 06R3WYFUIW1DVO4U
+  client_secret: M8m6yxc2AFX8p4IQe8Lf5H+GXmYkGrTSke/B8kCkFqDEk1w62XKDSCCds5RXGVXR

@@ -1,0 +1,15 @@
+- text: |
+    CUSTOMERIO-SITE-ID = "f82ad78f695bd32f9d99";
+    CUSTOMERIO-API-KEY = "1a621ef65edfe6d3b6ae";
+  client_id: f82ad78f695bd32f9d99
+  client_secret: 1a621ef65edfe6d3b6ae
+- text: |
+    customerio-siteId = "f82ad78f695bd32f9d99"
+    customerio-apiKey = "1a621ef65edfe6d3b6ae"
+  client_id: f82ad78f695bd32f9d99
+  client_secret: 1a621ef65edfe6d3b6ae
+
+- text: CUSTOMERIO-TRACK-API-KEY = "FSY7ZmQyN2B2RvVnZDAiWjCnVDc6UFE0PTDlAAYxZWSiBzSkM2Q2CZV=";
+  apikey: FSY7ZmQyN2B2RvVnZDAiWjCnVDc6UFE0PTDlAAYxZWSiBzSkM2Q2CZV=
+- text: customerio-key = "DTY0UmHyN8I2MqUnZBAyZtQhNAc1MTE3OPVlQTCxZWZmYgJkI7"
+  apikey: DTY0UmHyN8I2MqUnZBAyZtQhNAc1MTE3OPVlQTCxZWZmYgJkI7

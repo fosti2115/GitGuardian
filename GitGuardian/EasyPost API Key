@@ -1,0 +1,4 @@
+- text: 'EasyPost.apiKey = "EZAKozVPT4fxS2SVAXrzl7WlLy8q4qAHSS8O6QmCjU9svOUoHlCLNXDQGZ"'
+  apikey: EZAKozVPT4fxS2SVAXrzl7WlLy8q4qAHSS8O6QmCjU9svOUoHlCLNXDQGZ
+- text: 'new Easypost("EZTKoiijOY7al6GKALUJKjscwr4rRYW9GPE5NzjHI6w4X5hixk9ukIfG6i")'
+  apikey: EZTKoiijOY7al6GKALUJKjscwr4rRYW9GPE5NzjHI6w4X5hixk9ukIfG6i

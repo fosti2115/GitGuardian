@@ -1,0 +1,11 @@
+- text: |
+    SIGNIFYD_APIKEY=HRnOQ9bGlIRsIfNLkRsJ09A9z
+
+  apikey: HRnOQ9bGlIRsIfNLkRsJ09A9z
+
+- text: |
+    case_url = "https://api.signifyd.com/v2/cases/" + str(caseId)
+    r = requests.get(case_url, auth=('HRnOQ9bGlIRsIfNLkRsJ09A9z', ''))
+    return r
+
+  apikey: HRnOQ9bGlIRsIfNLkRsJ09A9z

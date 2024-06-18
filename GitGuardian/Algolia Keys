@@ -1,0 +1,10 @@
+- text: |
+    algolia
+    clientid= 2D20AW43DA
+    clientsecret= 3c039c651368a6b0f7640dbda46bfadc
+  client_id: 2D20AW43DA
+  client_secret: 3c039c651368a6b0f7640dbda46bfadc
+- text: algolia clientid= 2D20AW43DA clientsecret= 3c039c651368a6b0f7640dbda46bfadc
+
+  client_id: 2D20AW43DA
+  client_secret: 3c039c651368a6b0f7640dbda46bfadc

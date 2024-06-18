@@ -1,0 +1,11 @@
+- text: |
+    curl -H "Authorization: Bearer e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40aeca7f8" \
+    https://api.linode.com/v4/account
+  apikey: e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40aeca7f8
+- text: |
+    LINODE_API_TOKEN: e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40abcd1f2
+  apikey: e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40abcd1f2
+- text: |
+    curl -H "Authorization: Bearer e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40aeca7f8" \ 
+    https://api.linode.com/v4/account
+  apikey: e708ba56e1517a99f6b5fb07349476efb766c113290b1663b8e561a40aeca7f8

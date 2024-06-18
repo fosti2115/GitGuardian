@@ -1,0 +1,3 @@
+- text: const client = stream.connect('ra9xkyv6huw4', 'afu693gh2dehnqdmcjyz49rp43s8hdy7uymad2qum2rprdu5bhdx7ks2vvzcxhes', '60637');
+  client_id: ra9xkyv6huw4
+  client_secret: afu693gh2dehnqdmcjyz49rp43s8hdy7uymad2qum2rprdu5bhdx7ks2vvzcxhes

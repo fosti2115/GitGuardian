@@ -1,0 +1,23 @@
+- text: +//registry.leaking-repos.com/:_authToken=e0cd4d7d-19fx-4p18-86f2-0bbc5e36g6b1
+  apikey: e0cd4d7d-19fx-4p18-86f2-0bbc5e36g6b1
+
+- text: +//192.168.88.9:8081/repository/npmlocal/:_authToken=NpmToken.4536684c-d492-39pb-89a8-743a59762bcc
+  apikey: 4536684c-d492-39pb-89a8-743a59762bcc
+
+- text: '"_authToken": "b98ec224-cdb2-4340-b7bd-9617fc719d1d"'
+  apikey: b98ec224-cdb2-4340-b7bd-9617fc719d1d
+
+- text: '-export NPM_TOKEN="007e64c7-635d-4d54-8295-f364cd8e0e0f"'
+  apikey: 007e64c7-635d-4d54-8295-f364cd8e0e0f
+
+- text: +//registry.leaking-repos.com/:_authToken=npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+
+- text: +//192.168.88.9:8081/repository/npmlocal/:_authToken=npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+
+- text: '"_authToken": "npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d
+
+- text: '-export NPM_TOKEN="npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d"'
+  apikey: npm_TBljNfh4TLQlHWVhybV4iXrsNj5bMQ9EMh6d

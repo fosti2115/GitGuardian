@@ -1,0 +1,24 @@
+- text: |
+    spring.cloud.azure.active-directory.credential.client-id = df164709-2564-4159-bf90-bd19116313af
+    spring.cloud.azure.active-directory.profile.tenant-id = d5dac156-dad8-4d95-85d1-7e5498469a23
+    spring.cloud.azure.active-directory.credential.client-secret = 7lc8Q~Fzcideaz5fd64d6EZ41F6SD1f65z14EcTW
+  client_id: df164709-2564-4159-bf90-bd19116313af
+  tenant_id: d5dac156-dad8-4d95-85d1-7e5498469a23
+  client_secret: 7lc8Q~Fzcideaz5fd64d6EZ41F6SD1f65z14EcTW
+
+- text: |
+    spring.cloud.azure.active-directory.credential.client-id = df164709-2564-4159-bf90-bd19116313af
+    spring.cloud.azure.active-directory.profile.tenant-id = d5dac156-dad8-4d95-85d1-7e5498469a23
+    spring.cloud.azure.active-directory.credential.client-secret = 3~K7Q~yxHSpLEt8z5YsP~pMcmAMOPlwxG4JcXbTg
+  client_id: df164709-2564-4159-bf90-bd19116313af
+  tenant_id: d5dac156-dad8-4d95-85d1-7e5498469a23
+  client_secret: 3~K7Q~yxHSpLEt8z5YsP~pMcmAMOPlwxG4JcXbTg
+
+- text: |
+    env:
+      AZURE_AD_CLIENT_ID: "6165ad13-9480-438c-8a07-156486468f28"
+      AZURE_AD_CLIENT_SECRET: "4Qq8Q~O1jwfJ1xpddz1561SFen1vSPy6pP9~raJQ"
+      AZURE_AD_TENANT_ID: "715614dd-1514-a47b-cdc6-34161ab131f9"
+  client_id: 6165ad13-9480-438c-8a07-156486468f28
+  tenant_id: 715614dd-1514-a47b-cdc6-34161ab131f9
+  client_secret: 4Qq8Q~O1jwfJ1xpddz1561SFen1vSPy6pP9~raJQ

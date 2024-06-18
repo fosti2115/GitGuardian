@@ -1,0 +1,19 @@
+- text: |
+    auth_tuple = ("totolao", "mY_s3cr3t_p@ssw0rd")
+  username: totolao
+  password: mY_s3cr3t_p@ssw0rd
+
+- text: |
+    login = ("totolao", "mY_s3cr3t_p@ssw0rd")
+  username: totolao
+  password: mY_s3cr3t_p@ssw0rd
+
+- text: |
+    login = ("totolao", "sHrT")
+  username: totolao
+  password: sHrT
+
+- text: |
+    auth=("bsaruceobkoraebisroaecbu89", "p@ssw0rd")
+  username: bsaruceobkoraebisroaecbu89
+  password: p@ssw0rd

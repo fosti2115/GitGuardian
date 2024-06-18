@@ -1,0 +1,6 @@
+- text: 'config.action_mailer.postmark_settings = { :api_token => "455d0881-3b76-46b9-91d2-905a0f26c867" }'
+  apikey: 455d0881-3b76-46b9-91d2-905a0f26c867
+- text: 'var client = new postmark.Client("455d0881-3b76-46b9-91d2-905a0f26c867");'
+  apikey: 455d0881-3b76-46b9-91d2-905a0f26c867
+- text: config.action_mailer.postmark_settings = { :api_token => "455d0881-3b76-46b9-91d2-905a0f26c867" }
+  apikey: 455d0881-3b76-46b9-91d2-905a0f26c867

@@ -1,0 +1,39 @@
+- text: |
+    install:
+      - pip install codecov
+      - make install
+
+    script:
+      - export CODECOV_TOKEN="835a4597-5614-40f5-803c-093464aa2a74"
+      - cd test
+      - coverage run ./test.py
+
+    after_success:
+      - codecov
+
+  apikey: 835a4597-5614-40f5-803c-093464aa2a74
+- text: |
+    {
+      "version": "3.0.0",
+      "scripts": {
+        "lint": "eslint ./src ./tests",
+        "report": "nyc report --reporter=lcov > coverage.lcov && codecov --token=835a4597561440f5803c093464aa2a74",
+        "start": "babel-node src/main",
+        "test": "tap tests/start.js --coverage --reporter=spec"
+      }
+    }
+  apikey: 835a4597561440f5803c093464aa2a74
+- text: |
+    install:
+      - pip install codecov
+      - make install
+
+    script:
+      - export CODECOV_TOKEN="835a4597-5614-40f5-803c-093464aa2a74"
+      - cd test
+      - coverage run ./test.py
+
+    after_success:
+      - codecov
+
+  apikey: 835a4597-5614-40f5-803c-093464aa2a74

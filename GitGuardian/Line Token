@@ -1,0 +1,10 @@
+- text: |
+    curl -v -X POST https://api.line.me/v2/bot/message/push \
+    -H 'Content-Type:application/json' \
+    -H 'Authorization: Bearer 90ITTbG+j0TfDtuJoIWKRvPhpDnqYUaaSlOilnoy0urLE+kbf5hN4HUf5pSPw20ruyO0VgGG6IDjnvojctp5emFw0hZ51WxV8c35qo48upJInfmqDQ1xrFd4yGKvwx4yRVHYXmI/GyrtcWKd0GBoBAdB04t89/1O/w1cDnyilFU='
+  apikey: 90ITTbG+j0TfDtuJoIWKRvPhpDnqYUaaSlOilnoy0urLE+kbf5hN4HUf5pSPw20ruyO0VgGG6IDjnvojctp5emFw0hZ51WxV8c35qo48upJInfmqDQ1xrFd4yGKvwx4yRVHYXmI/GyrtcWKd0GBoBAdB04t89/1O/w1cDnyilFU=
+
+- text: |
+    line.bot:
+    -  channel-token: 'X19NG51BI5J6ANMAZgjg2hfwWf4kL6PqPweTgG3EVkw'
+  apikey: X19NG51BI5J6ANMAZgjg2hfwWf4kL6PqPweTgG3EVkw

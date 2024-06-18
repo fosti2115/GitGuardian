@@ -1,0 +1,5 @@
+- text: "SUB_KEY = 'sub-c-d3ff6da6-faa9-11m5-4160-0679f8943h4f'"
+  apikey: sub-c-d3ff6da6-faa9-11m5-4160-0679f8943h4f
+
+- text: "PNConfiguration *configuration = [PNConfiguration configurationWithPublishKey:@'' subscribeKey:@'sub-c-7e0453e2-5134-10e9-b63y-361a0ea3765d'];"
+  apikey: sub-c-7e0453e2-5134-10e9-b63y-361a0ea3765d

@@ -1,0 +1,2 @@
+- text: '$.post("https://hooks.zapier.com/hooks/catch/7724301/q80edt/", snippet, function(data, status) {'
+  apikey: hooks.zapier.com/hooks/catch/7724301/q80edt/

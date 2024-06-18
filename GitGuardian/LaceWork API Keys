@@ -1,0 +1,31 @@
+- text: |
+    lacework_account    = "safe-account"
+    lacework_api_key    = "SAFEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C"
+    lacework_api_secret = "_b5be5dd45b6be7492743f2f90a36dba3"
+  subdomain: safe-account
+  client_id: SAFEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C
+  client_secret: _b5be5dd45b6be7492743f2f90a36dba3
+
+- text: |
+    lacework_account    = "s4fe-account"
+    lacework_api_key    = "S4FEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C"
+    lacework_api_secret = "_b5be5dd45b6be7492743f2f90a36dba3"
+  subdomain: s4fe-account
+  client_id: S4FEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C
+  client_secret: _b5be5dd45b6be7492743f2f90a36dba3
+
+- text: |
+    lacework_instance_url    = "safe-account.lacework.net"
+    lacework_api_key    = "SAFEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C"
+    lacework_api_secret = "_b5be5dd45b6be7492743f2f90a36dba3"
+  subdomain: safe-account
+  client_id: SAFEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C
+  client_secret: _b5be5dd45b6be7492743f2f90a36dba3
+
+- text: |
+    lacework_instance_url    = "s4fe-account.lacework.net"
+    lacework_api_key    = "S4FEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C"
+    lacework_api_secret = "_b5be5dd45b6be7492743f2f90a36dba3"
+  subdomain: s4fe-account
+  client_id: S4FEACC_F3758175A0533880B17581CF6B4DF862A9D9A737A5CC192C
+  client_secret: _b5be5dd45b6be7492743f2f90a36dba3

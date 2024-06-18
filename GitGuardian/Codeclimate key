@@ -1,0 +1,3 @@
+- text: |
+    rc/main/java\n       CODECLIMATE_TEST_REPORTER_ID: 1693eb84b57f015c5d2fee38a1d8e478ead1ebb49c66b05f1e2947293122d7db\n+\n+\n+\n     \n+\n     steps:\n       - checkout\n \n@@
+  apikey: 1693eb84b57f015c5d2fee38a1d8e478ead1ebb49c66b05f1e2947293122d7db

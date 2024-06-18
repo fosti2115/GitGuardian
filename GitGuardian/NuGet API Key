@@ -1,0 +1,5 @@
+- text: nuget push *.nupkg oy2rek2ae45zphcftpdav7d0ko0tttsuxg6yfpcvex9fsc -src https://api.nuget.org/v3/index.json
+  apikey: oy2rek2ae45zphcftpdav7d0ko0tttsuxg6yfpcvex9fsc
+
+- text: dotnet nuget push ./nuget/*.nupkg -k oy2fvc3nqk4amkc54ocexxpsedpqt7ie8apjfepbegwffc
+  apikey: oy2fvc3nqk4amkc54ocexxpsedpqt7ie8apjfepbegwffc

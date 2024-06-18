@@ -1,0 +1,4 @@
+- text: >
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiZXhwIjoxNjc0MDA1NDIyLCJwYXNzd29yZCI6IklqNzg2I2I0bGwxIn0.o99hhHHQt2ztFyNjaQbkuakAz9bT1Kc-GsvphHn_gQs
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiZXhwIjoxNjc0MDA1NDIyLCJwYXNzd29yZCI6IklqNzg2I2I0bGwxIn0.o99hhHHQt2ztFyNjaQbkuakAz9bT1Kc-GsvphHn_gQs
+  decoded_token: {"alg":"HS256","typ":"JWT"}{"sub":"1234567890","name":"John Doe","exp":1674005422,"password":"Ij786#b4ll1"}{some_signature_value}

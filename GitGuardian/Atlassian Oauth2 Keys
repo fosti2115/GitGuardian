@@ -1,0 +1,47 @@
+- text: |
+    oauthEndpoint = oauth2.Endpoint{
+    +       AuthURL:  "https://auth.atlassian.com/authorize",
+    +       TokenURL: "https://auth.atlassian.com/oauth/token",
+    +   }
+    +   oauthConfig = &oauth2.Config{
+    +       RedirectURL:  "http://localhost:3000/auth/jira/callback",
+    +       ClientID:     "W4JMs69BbCohnWUozR70fyhEGFyHC3qH",
+    +       ClientSecret: "DXEQC92LCtFAayTskHnFdf_0if7t8XhFznW_68dNHQXxX--n6PwSRFyEckem6X9n",
+    +       Scopes:       []string{"read:jira-user", "read:jira-work", "offline_access"},
+    +       Endpoint:     oauthEndpoint,
+    +   }
+    +)
+
+  client_id: W4JMs69BbCohnWUozR70fyhEGFyHC3qH
+  client_secret: DXEQC92LCtFAayTskHnFdf_0if7t8XhFznW_68dNHQXxX--n6PwSRFyEckem6X9n
+
+- text: |
+    JIRA_CLIENT=s1JWjiFNbAurXIGu2KzSoRD9EF93vjLZ
+    JIRA_SECRET=HEJdIgN55jQYZLXDN6hlTJjIjsHms4z0Xtga45XrmLsASTI1X_TE-67VdpwEiv8e
+
+  client_id: s1JWjiFNbAurXIGu2KzSoRD9EF93vjLZ
+  client_secret: HEJdIgN55jQYZLXDN6hlTJjIjsHms4z0Xtga45XrmLsASTI1X_TE-67VdpwEiv8e
+- text: |
+    ```
+    oauthEndpoint = oauth2.Endpoint{ 
+    +       AuthURL:  "https://auth.atlassian.com/authorize", 
+    +       TokenURL: "https://auth.atlassian.com/oauth/token", 
+    +   } + oauthConfig = &oauth2.Config{ 
+    +       RedirectURL:  "http://localhost:3000/auth/jira/callback", 
+    +       ClientID:     "W4JMs69BbCohnWUozR70fyhEGFyHC3qH", 
+    +       ClientSecret: "DXEQC92LCtFAayTskHnFdf_0if7t8XhFznW_68dNHQXxX--n6PwSRFyEckem6X9n", 
+    +       Scopes:       []string{"read:jira-user", "read:jira-work", "offline_access"}, 
+    +       Endpoint:     oauthEndpoint, 
+    +   } 
+    +)
+    ```
+
+  client_id: W4JMs69BbCohnWUozR70fyhEGFyHC3qH
+  client_secret: DXEQC92LCtFAayTskHnFdf_0if7t8XhFznW_68dNHQXxX--n6PwSRFyEckem6X9n
+
+- text: |
+    JIRA_CLIENT=ig5qKaLWNFrD2q0B21W9veYp0QgrdHy4
+    JIRA_SECRET=ATOAsfm4Gyg8ZPKADORt63I3ka-1wXX7zIYcY7GCoDdT7dqnOFZdkiXxCzUw75xWrK5f6BBA64E3
+
+  client_id: ig5qKaLWNFrD2q0B21W9veYp0QgrdHy4
+  client_secret: ATOAsfm4Gyg8ZPKADORt63I3ka-1wXX7zIYcY7GCoDdT7dqnOFZdkiXxCzUw75xWrK5f6BBA64E3

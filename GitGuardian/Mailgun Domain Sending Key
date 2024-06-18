@@ -1,0 +1,13 @@
+- text: |
+    +    'mailgun' => [
+    +         'domain' => 'sandbox9429958218ca403a8d58dcd099d1c0c9.mailgun.org',
+    +        'secret' => 'a5f26ab470c693c8bbfdbca164f4448a-1b65790d-12d3d5f0',
+    +    ],
+  apikey: a5f26ab470c693c8bbfdbca164f4448a-1b65790d-12d3d5f0
+
+- text: |
+    +smtp.username = ap2@mg.ggfoundit.eu
+    +smtp.password = cbdd0aaa801e2c07bf9c5448c65d2ba1-9949a98f-69e8d3c4
+     smtp.port = 587
+     mail.smtp.starttls.enable = true
+  apikey: cbdd0aaa801e2c07bf9c5448c65d2ba1-9949a98f-69e8d3c4

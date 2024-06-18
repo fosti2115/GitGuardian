@@ -1,0 +1,20 @@
+- text: ',\"https://insights-collector.new-relic.com/v1/accounts/737486/events\"),n.setRequestHeader(\"X-Insert-Key\",\"CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk\"),n.setRequestHeader(\"Content'
+  apikey: CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk
+- text: "@click.option('--key',required=True,envvar='KEY',help='New Relic key',default='CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk')"
+  apikey: CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk
+- text: "+export APIKEY='x-api-key: B7CLA9aKc8e49Aa2021aXL8ADWQ2a77e' +export policiesURL='https://api.newrelic.com/v2/alerts_policies.json'"
+  apikey: B7CLA9aKc8e49Aa2021aXL8ADWQ2a77e
+- text: '#APIKEY for new_relic:B7CLA9aKc8e49Aa2021aXL8ADWQ2a77e'
+  apikey: B7CLA9aKc8e49Aa2021aXL8ADWQ2a77e
+- text: ',\"https://insights-collector.new-relic.com/v1/accounts/737486/events\"),n.setRequestHeader(\"X-Insert-Key\",\"CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk\"),n.setRequestHeader(\"Content'
+  apikey: CPDMQXSvjxGCdL_E02P9eZ-NJcEg-uGk
+
+- text: |
+    "# class to insert insights NR
+    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
+  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir
+
+- text: |
+    "# class to insert insights NEWRELIC
+    NRII(key=NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir)"
+  apikey: NRII-kuKbd47q2bapQAMeSevGKzI49gDKSEir

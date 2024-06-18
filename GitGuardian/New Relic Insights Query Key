@@ -1,0 +1,10 @@
+- text: |
+    "\# class to query insights NR
+    QueryInsights(NRIQ-s36NnN7gH5-NDf_3JQbRXgQXd3N6ni4x)"
+  apikey: NRIQ-s36NnN7gH5-NDf_3JQbRXgQXd3N6ni4x
+
+- text: |
+    "\# class to query insights NR
+    # This instantiate a new_relic object
+    QueryInsights(apikey=NRIQ-s36NnN7gH5-NDf_3JQbRXgQXd3N6ni4x)"
+  apikey: NRIQ-s36NnN7gH5-NDf_3JQbRXgQXd3N6ni4x

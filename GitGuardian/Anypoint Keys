@@ -1,0 +1,11 @@
+- text: |
+    <?xml version="1.0"?>
+    <cfg>
+      <anypoint.platform.client_id>421c48999fba7ee2b6a7e8dec374a945</anypoint.platform.clientid>
+      <anypoint.platform.client_secret>d5D06e8f5c0a6c26eDE090a369ADDFeb</anypoint.platform.client_secret>
+    </cfg>
+  client_id: 421c48999fba7ee2b6a7e8dec374a945
+  client_secret: d5D06e8f5c0a6c26eDE090a369ADDFeb
+- text: '`<anypoint.platform.client_id>421c48999fba7ee2b6a7e8dec374a945</anypoint.platform.clientid> <anypoint.platform.client_secret>d5D06e8f5c0a6c26eDE090a369ADDFeb</anypoint.platform.client_secret>`'
+  client_id: 421c48999fba7ee2b6a7e8dec374a945
+  client_secret: d5D06e8f5c0a6c26eDE090a369ADDFeb

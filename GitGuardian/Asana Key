@@ -1,0 +1,23 @@
+- text: |
+    const ASANA_AUTHORIZATION = 'Bearer 1/1800851236530968:839755caa1e64bea70631a963db663e2'
+  apikey: 1/1800851236530968:839755caa1e64bea70631a963db663e2
+- text: |
+    // OAuth: https://developers.asana.com/docs/oauth
+    const token = `1/1375566584083473:eaff662dc3cb6a48a38a2d3a1206a0b5`;
+  apikey: 1/1375566584083473:eaff662dc3cb6a48a38a2d3a1206a0b5
+- text: |
+    curl -H "Authorization: Bearer 1/1198990123456789:d3d1e51e5b4b4f9b9bb419f2f882114f" \
+    https://app.asana.com/api/1.0/users/me
+  apikey: 1/1198990123456789:d3d1e51e5b4b4f9b9bb419f2f882114f
+- text: |
+    #asana
+    //1/1198990123456789:d3d1e51e5b4b4f9b9bb419f2f882114f
+  apikey: 1/1198990123456789:d3d1e51e5b4b4f9b9bb419f2f882114f
+- text: |
+    curl -H "Authorization: Bearer 0/d3d1e51e5b4b4f9b9bb419f2f882114f" \
+    https://app.asana.com/api/1.0/users/me
+  apikey: 0/d3d1e51e5b4b4f9b9bb419f2f882114f
+- text: |
+    #asana
+    //0/d3d1e51e5b4b4f9b9bb419f2f882114f
+  apikey: 0/d3d1e51e5b4b4f9b9bb419f2f882114f

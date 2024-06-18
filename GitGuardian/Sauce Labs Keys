@@ -1,0 +1,7 @@
+- text: |
+    // Saucelabs environment
+    -  user: 'geoTrouve.tout',
+    -  key: '736d5098-b9c4-4ed4-836f-b972dc9accc3',
+
+  username: geoTrouve.tout
+  client_secret: 736d5098-b9c4-4ed4-836f-b972dc9accc3

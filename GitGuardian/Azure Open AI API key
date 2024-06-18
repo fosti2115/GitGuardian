@@ -1,0 +1,23 @@
+- text: |
+    "AZURE_OPENAI_ENDPOINT": "https://my-gpt.openai.azure.com/openai/deployments/my-deployment",
+    "AZURE_OPENAI_APIKEY": "dc79f95b01254ecbab4f721ff655ae2f",
+  apikey: dc79f95b01254ecbab4f721ff655ae2f
+  azure_endpoint: https://my-gpt.openai.azure.com
+
+- text: |
+    AZURE_OPENAI_ENDPOINT=https://test-llm.openai.azure.com/openai/deployments/my-deployment
+    AZURE_OPENAI_API_KEY=28e3ada2c45a4e0581fc095cbb3d5faa
+  apikey: 28e3ada2c45a4e0581fc095cbb3d5faa
+  azure_endpoint: https://test-llm.openai.azure.com
+
+- text: |
+    azureEndpoint=https://new-completion.openai.azure.com/openai/deployments/my-deployment
+    azureOpenAIApiKey: "a6e48f0a94d949309e66faa91827fd86",
+  apikey: a6e48f0a94d949309e66faa91827fd86
+  azure_endpoint: https://new-completion.openai.azure.com
+
+- text: |
+    os.environ["AZURE_ENDPOINT"] = "https://openai-test-resource-france.openai.azure.com/"
+    os.environ["AZURE_OPENAI_API_KEY"] = "b19b2357dcde45af8ddb27a196867812"
+  apikey: b19b2357dcde45af8ddb27a196867812
+  azure_endpoint: https://openai-test-resource-france.openai.azure.com
