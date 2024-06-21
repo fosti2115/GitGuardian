@@ -1,0 +1,14 @@
+- text: |
+    PLANETSCALE_TOKEN_NAME="khgf9jbsrx1l"
+    PLANETSCALE_TOKEN="pscale_tkn_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ"
+    PLANETSCALE_ORG=gg-org
+  client_id: khgf9jbsrx1l
+  apikey: pscale_tkn_m_ABffR3bVXQn83xueOUpYrJlA3V7DfnoTVaaSlHCyZ
+  organization: gg-org
+
+- text: |
+    --- /dev/null
+    +++ b/.config/planetscale/access-token
+    @@ -0,0 +1 @@
+    +pscale_oauth_aB0gQfl4oz9_iIocifChjPuvEOS_ieaWTT6ChduCXYZ
+  apikey: pscale_oauth_aB0gQfl4oz9_iIocifChjPuvEOS_ieaWTT6ChduCXYZ
