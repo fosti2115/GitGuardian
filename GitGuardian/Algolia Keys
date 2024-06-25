@@ -8,3 +8,13 @@
 
   client_id: 2D20AW43DA
   client_secret: 3c039c651368a6b0f7640dbda46bfadc
+
+- text: |
+    const ALGOLIA_APP_ID = 'O209R1PN3N';
+    const ALGOLIA_MONITORING_KEY = '476aee33e12b4ef08e8f1ba9c4b638c0';
+  client_id: O209R1PN3N
+  client_secret: 476aee33e12b4ef08e8f1ba9c4b638c0
+- text: const ALGOLIA_APP_ID = 'O209R1PN3N'; const ALGOLIA_MONITORING_KEY = '476aee33e12b4ef08e8f1ba9c4b638c0';
+
+  client_id: O209R1PN3N
+  client_secret: 476aee33e12b4ef08e8f1ba9c4b638c0
