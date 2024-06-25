@@ -18,3 +18,22 @@
 
   client_id: O209R1PN3N
   client_secret: 476aee33e12b4ef08e8f1ba9c4b638c0
+
+- text: |
+    const ALGOLIA_APP_ID = 'OH2GRAP30N';
+    const ALGOLIA_ADMIN_KEY = 'b782df1739614041699a45f8079a3623';
+    const ALGOLIA_SEARCH_KEY = '46aee733e12b4f08ee8f1ba9c4bc6380';
+  client_id: OH2GRAP30N
+  client_secret: b782df1739614041699a45f8079a3623
+- text: |
+    struct Algolia {
+      static let appId: String = "B2NW9U3W8F"
+      static let apiKeySearch: String = "d9ad5cd8c4a29789099c7521561228dc"
+      static let apiKeyAdmin: String = "4934242ed5979c45ed9fb3ec072429ea"
+    }
+  client_id: B2NW9U3W8F
+  client_secret: d9ad5cd8c4a29789099c7521561228dc
+- text: const ALGOLIA_APP_ID = 'OH2GRAP30N'; const ALGOLIA_ADMIN_KEY = 'b782df1739614041699a45f8079a3623'; const ALGOLIA_SEARCH_KEY = '46aee733e12b4f08ee8f1ba9c4bc6380';
+
+  client_id: OH2GRAP30N
+  client_secret: b782df1739614041699a45f8079a3623
